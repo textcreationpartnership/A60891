@@ -1,0 +1,706 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to a book printed in 1678, called, The hidden things brought to light with Robert Rich of Barbadoes his name to it, and printed for Francis Smith at the Elephant &amp; Castle in Cornhill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60891</idno>
+            <idno type="STC">Wing S4658</idno>
+            <idno type="STC">ESTC R40618</idno>
+            <idno type="EEBO-CITATION">19411346</idno>
+            <idno type="OCLC">ocm 19411346</idno>
+            <idno type="VID">108841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1678:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to a book printed in 1678, called, The hidden things brought to light with Robert Rich of Barbadoes his name to it, and printed for Francis Smith at the Elephant &amp; Castle in Cornhill.</title>
+                  <author>Rich, Robert, d. 1679.</author>
+               </titleStmt>
+               <extent>43 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Rich by NUC pre-1956 imprints.</note>
+                  <note>Place of imprint suggested by WIng.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691. --  Hidden things brought to light.</term>
+               <term>Rich, Robert, d. 1679.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108841:1" rendition="simple:additions"/>
+            <p>Something in ANSWER TO A BOOK Printed in 1678. Called, <hi>The Hidden Things Brought to Light.</hi> With ROBERT RICH of BARBADOES his Name to it; And Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> &amp; <hi>Caſtle</hi> in CORNHIL.</p>
+            <p>
+               <hi>He hath put forth his Hand againſt ſuch as are at Peace.</hi>
+            </p>
+            <p>
+               <hi>The Words of his Mouth were ſmoother than Butter; but War was in his Heart: His Words were ſofter then Oyl; yet were they Drawn Swords againſt the Righ<g ref="char:EOLhyphen"/>teous.</hi>
+            </p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108841:2"/>
+            <pb n="3" facs="tcp:108841:2"/>
+            <head>An Anſwer to <hi>Robert Rich</hi>'s Book &amp;c.</head>
+            <p>WHerein he hath gathered up ſome old Letters and Papers, that were written many Years ago by
+<hi>J. Naylor</hi> and <hi>J. Parrot:</hi> And alſo ſome<g ref="char:EOLhyphen"/>thing written and ſpoken to them by
+<hi>G. F.</hi> when they acted Things contrary to the Truth; and likewiſe a Letter from <hi>R. M.</hi> of <hi>Barbadoes</hi> to J. P. Wherein the Envy and Malice of <hi>R. R.</hi> and others that have printed theſe Papers, may be ſeen, and not the Love of God.</p>
+            <p>
+               <hi>Firſt,</hi> As for J. N. The Lord opened his Underſtanding, that he came to ſee himſelf, and gave forth a Book of <hi>Recan<g ref="char:EOLhyphen"/>tation</hi> and <hi>Repentance</hi> of his running out, and became a good man again, but ſo did not J. P. Did not he run into Swearing, and Trooping, and Drunkenneſs, and Looſeneſs? And cd he not ſo dye without Repentance? Let
+<hi>J. Taylor,</hi> and Friends at <hi>Jamaica</hi> ſpeak, that had ſorrow en<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh with him, and with <hi>Ro<g ref="char:EOLhyphen"/>bert Maling</hi> alſo — And it had been well if R. R. had come to have ſeen himſelf and repented, a J N did, then he would not have juſtified J P. in his running out, which many came to ſee, and repented, and did bleſs the Lord for it.</p>
+            <p>But if R. R. had repented, as J N. did, then he would have let them lain quietly in their Graves, and not have raked into their Aſhes ſo many Years after they are dead: But ſuch Diſquieted Apoſtaſes and Reſtleſs Spirits have no quietneſs, but in ſuch work, that wanted ſome Matter to publiſh to the VVorld; a fit work for <hi>Francis Smith</hi> to get Money by.</p>
+            <p>And theſe Letters of J.P<hi>'s,</hi> nor J N<hi>'s,</hi> R. M<hi>'s,</hi> nor R. R<hi>'s</hi> were never ſent to G F in their Life-time, nor ſince they were dead, he never ſaw them till printed in this Book to the VVorld; &amp; this is an Unchriſtian Spirit in R. R. &amp; thereſt that have printed them: and it ſhews much Malice and Envy of R. R. that hath done it ſo long after they were dead, which J. N. hath Condemned and was Reconciled to his Brethren before he dyed; and not
+<pb n="4" facs="tcp:108841:3"/>to Print, or ſend them to G. F. while they were living; and this is not like Civil men.</p>
+            <p>And in the <hi>Preface</hi> there is manifeſted a great deal of Malice againſt <hi>G. F.</hi> Firſt he ſaith, <hi>All are ſubject to err.</hi> And R. R. ſaith in pag. 37. that
+<hi>J. N. knew no Sin.</hi>
+               <note place="margin">Contradiction.</note> And <hi>In</hi> J. P's
+<hi>Mouth there was found no Guile,</hi> as in pag. 1.</p>
+            <p>And yet J. P in pag. 19. calls himſelf <hi>
+                  <g ref="char:V">Ʋ</g>nworthy man, and that he is Vder and Worſer before the Lord, then we have preſent<g ref="char:EOLhyphen"/>ed him in the Eyes of men.</hi> So let R. R. mark J. P. then, hath he not Erred in this Book, let him apply it at home, and let t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Reader ſee.</p>
+            <p>And thou ſayeſt, <hi>Every Man may know his own Heart, but not anothers.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not <hi>Stephen</hi> Judge of the Hearts of others, when he ſaid to ſuch as thee art, <hi>Ye ſtiff-necked and <g ref="char:V">Ʋ</g>ncircumciſed in Hearts and Ears,</hi> &amp;c?</p>
+            <p>And as for thy deſpiſing Words, as mean Servant, &amp;c. That is but thy deſpiſing words, like to the <hi>Jews,</hi> that called Chriſt the Carpenters Son. And we are not
+<hi>Injurious to Chriſtians,</hi> as thou falſly ſaith, but eſtabliſhed in the true
+<hi>Chriſtian</hi>-Religion, in the Light of Chriſt Jeſus, neither are we oppoſite to our own Principle, the Spirit of Truth that leads into all Truth and good<g ref="char:EOLhyphen"/>neſs; and all Perſons that are truly ſincere and in true ſimplicity we have Unity withal. And this Book of R. R'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not the work of Sin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere Perſons, nor of ſuch as are in the Simplicity of Truth. And thou ſpeaks of ſome <hi>in the ſimplicity of their Hearts have ſome time conſented with him, both in Doctrine and Practice, bare an undeniable Teſtimony againſt him, that he is highly Inju<g ref="char:EOLunhyphen"/>rious to</hi> Chriſtians, <hi>and ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks an unjuſt and oppreſſive dominion over their Conſciences, contradicts by his Practice his own Prin<g ref="char:EOLhyphen"/>ciple.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou haſt fulfilled that Scripture, <hi>Who went forth from us, who were not of us.</hi> But in ſimplicity of Heart that thou might have ſpared. And in what is G. F. or others Injuri<g ref="char:EOLhyphen"/>ous to <hi>Chriſtians?</hi> And in what do we ſeek an oppreſſive domi<g ref="char:EOLhyphen"/>nion over their Conſciences, and contradict by our Practices,
+<pb n="5" facs="tcp:108841:3"/>our own Principles. So theſe are but thy Railing words, which we deny: But to teſtifie againſt unruly Spirits, that make their Will their Conſcience, which is not; this is not Injurious to true <hi>Chriſtianity.</hi>
+            </p>
+            <p>And thou tellſt a great Story of the <hi>Pope,</hi> &amp; the <hi>Princes,</hi> and
+<hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> and ſuch as are <hi>led away with carnal Intereſt and Paſſion, Ambition, Singularity, Self-conceitedneſs, and deſire of vain Glory,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> The Authors of this Book might very well apply this at home, for it ſuits their own Spirit: and neither G. F. nor the <hi>Quakers</hi> do condemn them that walk in obedience to the Light of Chriſt in their Conſciences; but ſuch are diſobedient to the Light of Chriſt, that call Darkneſs Light, are condemned by the Light. And <hi>Pride</hi> and
+<hi>Senſorious Paſſion</hi> (as thou call, it) though might have kept at home.</p>
+            <p>And thou ſayeſt that <hi>G. F. and the</hi> Quakers, <hi>&amp;c. fly to the great Number they are the Body,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Nay, art not thou boaſting in thy great Number of Diſſenters? ſee the
+<hi>Preface.</hi> But the <hi>Quakers</hi> fly to Chriſt Je<g ref="char:EOLhyphen"/>ſus, who is the head of their Body, the Church, they being li<g ref="char:EOLhyphen"/>ving Members; and doſt thou envy at this? And had the Light in thee ruled over thee and the reſt of Oppoſers, thou and you would have been in Unity with the Children of Light; and the Light of Chriſt, which lighteth every man that cometh into the World is the true Light, and unerring Guide, by which every man may ſee himſelf, and judge himſelf, and ſee his Saviour that dyed for him.</p>
+            <p>And thou ſayeſt, <hi>The Principles of</hi> Proteſtantiſm, <hi>and all the Reformation which requires every man to judge for himſelf againſt any Number,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> But they had better follow Chriſt, and his Light and Spirit (and not their own Judgments) by which they might be baptized by one Spirit into one Body. And we have not open<g ref="char:EOLhyphen"/>ly betrayed our Principle, the Light in every man, (as thou falſly ſayeſt) but maintain it.</p>
+            <p>And as for the <hi>Papiſts</hi> talking of their gre<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Number, let them anſwer for themſelves, its nothing to us. And for thy reckon<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:108841:4"/>up a Catalogue of them that have been <hi>Quakers,</hi> and after<g ref="char:EOLhyphen"/>ward diſſented from them; Thou hadſt thy liberty, and haſt put thy ſelf in the Number with the reſt of the contrivers of this Book. And thou might have put in how many of the <hi>Jews</hi> came out of <hi>Aegypt,</hi> and turned back, and ſtood againſt <hi>Moſes,</hi> and the Prophets, and Chriſt, and the Apoſtles; and how many re<g ref="char:EOLhyphen"/>ceived the form of
+<hi>Chriſtianity,</hi> and after turned into vain Jang<g ref="char:EOLhyphen"/>ling, and againſt: the Apoſtles, and went out from them, and made up thy Number with <hi>Judas</hi> (that betrayed his Maſter) in this Catalogue.</p>
+            <p>And thou ſeem'ſt to boaſt of the <hi>Parts of Diſſenters,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Truly it is not manifeſt in this Book, nor their Inte<g ref="char:EOLhyphen"/>grity. Then thou ſpeaks of the great Number of the <hi>Quakers</hi> that <hi>J. Parrot</hi> drew after him, but thou haſt not ſet down their Names; but after they came to ſee him, are they not turned to Truth again; except the Contrivers of this Book, and ſuch as remain in Enmity?</p>
+            <p>And thou boaſts of J. P. <hi>How far he excells G. F. in Naturals, and in the Virtues of Meekneſs, Patience, Humility, <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal Love, and Brotherly-kindneſs, which made him an Object of G. F's Perſecution and Envy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> G. F. is not of ſuch a Spirit, but the Envy and Perſe<g ref="char:EOLhyphen"/>cution is from thy own Spirit and we cannot be deceived with the bare words of Love, and Kindneſs, and Humility,
+<hi>&amp;c.</hi> when the Fruits of J. P. were otherwiſe; his Life and End declared his parts, and that it was worſe then in the beginning. If all the Papers ſhould be printed that was given forth concerning him, both at <hi>Jamaica</hi> and other places, it would make a Volumn; but the man is gone, and Love covers much; and not to publiſh it to the World, a this envious Spirit hath done, who ſaith in his Title page, <hi>The Cauſe and Ground of their differences and falling out, and what manner of Spirit moved and acted them, to wit, G. F. J. N. and J. P.</hi> And this he Prints and proclaims to the World, many Years after J. N. and J. P and R. M. were dead.</p>
+            <p>
+               <hi>Anſw.</hi> Will the World commend him for this? Will ſober men ſay this is from a
+<hi>Chriſtians</hi> Spirit? or is it not from Envy
+<pb n="7" facs="tcp:108841:4"/>and Malice, and not from Love? Did R. M. or J. P. or J. N. give you order to Print their Papers ſo many Years after they were dead, and eſpecially J. N. who had condemned his running out, and was reconciled to his Brethren? and are ſuch the Strife and Sedition-ſowers, or the Peace-makers? let all ſober People judge of this Spirit by its Fruits.</p>
+            <p>And <hi>R. M's</hi> Letter to J. P. wherein he ſeems to Juſtifie him, and Reproach them that ſought both their good, and ſpeaks of ſuch, that <hi>ſent forth Bates and Snares, Traps and Gins for</hi> J. P. <hi>from</hi> Dan <hi>to</hi> Berſheba, and ſaith, <hi>Who hath no Guile found in his Mouth, and hath the perfect Life of Love, and the Spirit of the Lamb riſen in him,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> And yet it is ſaid in the <hi>Preface, All are ſubject to Err.</hi>
+            </p>
+            <p>And yet J. P. ſaith in pag. 19. <hi>I am Worſer and Viler before the Lord, then they have preſented me in the Eyes of men,</hi> &amp;c. <hi>And if any of you will delight your ſelves in War, let it be with the E<g ref="char:EOLhyphen"/>nemies of your Hearts,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Now let the Reader ſee if theſe be not Contradictions, for had J. P. been in the condition, as he is flatteringly repreſen<g ref="char:EOLhyphen"/>ted, he had been in Unity with his Brethren. And had R. R. taken J. P's Counſell, that he ſeeks in his Book to maintain, and others, he and they would have warred with the Corruptions of their own Hearts, and not againſt them that be in the Truth; and R. M. was miſtaken, there is no ſuch Fury nor Hatred, nei<g ref="char:EOLhyphen"/>ther againſt him nor J. P. but were for their good, and that they might have lived as they ſaid. And as for Gins and Snares, ſet as fas as <hi>Dan</hi> and <hi>Berſheba,</hi> that is falſe, and ſuch as ſay ſo are too much at liberty with their Tongues to Print ſuch things. And is there not many more Letters of R. M's to J. P? and how was it that they were not Printed? but its like they were againſt your ſelves. And as for J P's <hi>Letter</hi> to G. F. and <hi>how he plead<g ref="char:EOLhyphen"/>ed his Cauſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> How was it that his Letter was not ſent to G. F. be<g ref="char:EOLhyphen"/>fore he dyed: And this Letter of J. P's doth not ſhew all the cauſe of difference between him and G. F. and Friends; and though G. F. and others had a care of Gods Glory, and did ad<g ref="char:EOLhyphen"/>moniſh J. P. of ſome things, and of paſſages beyond Seas; though
+<pb n="8" facs="tcp:108841:5"/>all is not mentioned in this Book. And G. F. and others had not told J. P. of Expences, and giving Credit to two Women that were Priſonens at <hi>Malta,</hi> and had he not ſpoken it ſo often to others; and G. F. ſitting up with him ſo late at Night, was not that his own deſire? but the man is gene, and cannot anſwer for himſelf.</p>
+            <p>And whereas J. P. ſaith, <hi>That he ſhould be told of his Charges, and comparing it with Friends Horſes and the Battle-door, and of</hi> T. R's <hi>taunting ſharply at him,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> He might have ſpared his Labour, and not have re<g ref="char:EOLhyphen"/>flected upon others which he had by Information: for none told him of his Charges but by way of Admonition; and if he had been of a meek Spirit, as you and he ſays of himſelf, he would never revillingly have called T. R's Exhortation ſharp Taunting at him; and none ſpoke to him of upbrading of him of great ſums of Money, which R. R. makes ſo much work about over and over in is Book, or that he ſhould make ſatisfaction: and he makes much ado about <hi>E. Burroughs</hi>'s ſpeaking to him about his Hat keeping on in time of Prayer. And as for G F. or E B. granting to J P to have a Meeting with all the Friends in the Miniſtry, or other Friends in <hi>England,</hi> and they were againſt it; and what if they were, and after granted J. P. a little Meet<g ref="char:EOLhyphen"/>ing. J P. concluded G. F. changeable — This doth not ſhew forth Love neither in him, nor them that printed this Book; nei<g ref="char:EOLhyphen"/>ther proves it G. F nor E. B. changeable.</p>
+            <p>And J. P. ſaith, <hi>The Lord required him to keep on his Hat in time of Prayer; and for him to do contrary to the moving of the Spirit, thereby he ſinned againſt God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If J P. had ſuch a Motion and Command to keep on his Hat in time of Prayer in
+<hi>England,</hi> did not he manifeſt that it was a falſe Motion, and falſe Spirit, when he put it off in <hi>Jama<g ref="char:EOLhyphen"/>ica</hi> and other places? And he that had been againſt Swearing, did not he put the Oath to others, when he became a Clark? And why ſhould any be againſt us for admoniſhing him for lay<g ref="char:EOLhyphen"/>ing that upon the Lord and his Spirit that was not, but his own Imaginations.</p>
+            <p>And what J. P. ſaid to F. H and G F. the younger, they are
+<pb n="9" facs="tcp:108841:5"/>gone, and he too; and this is Wickedneſs in thee R. R. and o<g ref="char:EOLhyphen"/>thers, to rake thus into their Aſhes: and though he pleads much for his Innocency, and ſaith, <hi>We found fault with his Evening-Meetings.</hi> It was not without cauſe, nor comparable to them at
+<hi>Gerrard Roberts</hi>'s; and therefore, as often thou ſayeſt <hi>G. F. was not Right in many particulars.</hi> But this doth not ma<g ref="char:EOLhyphen"/>nifeſt it, becauſe I ſaid thy Tears were
+<hi>Eſaus</hi> Tears, whoſe abſo<g ref="char:EOLhyphen"/>lute feignedneſs did often manifeſt it ſelf.</p>
+            <p>And J. P. ſpeaks of <hi>many things in this large Letter,</hi> which I never received from his hand in his Life-time, which now Ma<g ref="char:EOLhyphen"/>liciouſly R. R. has Printed, which is not Civil.</p>
+            <p>And J. P. ſaith, <hi>That</hi> F. H. <hi>&amp;</hi> G. W. <hi>ſaid, if he would do ſo and ſo, he ſhould have their Love along with him, when he went to</hi> Briſtol.</p>
+            <p>But what that ſo and ſo was, he doth not manifeſt.</p>
+            <p>And in pag. 10. J. P. ſaith, <hi>They came to diſcourſe on the Hat in time of Prayer.</hi>
+            </p>
+            <p>And what he ſaith of F. H. that faithfull Servant of the Lord, he is deceaſed. And why did you not Print J. P's two Letters, that he had writ of the Hat concerning them? and that would have manifeſted to the World ſomething, which we did admo<g ref="char:EOLhyphen"/>niſh him for. And J. P. ſhould have ſpoken to <hi>J. Pigion</hi> concern<g ref="char:EOLhyphen"/>ing the Letter he ſent to G. F. and not to ſay, <hi>G. F. was wrong in ſaying he did.</hi>
+            </p>
+            <p>And as for <hi>Tho. Briggs</hi>'s Letters, that were ſent to <hi>Iſaac Pe<g ref="char:EOLhyphen"/>nington,</hi> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Briſtoll,</hi> why were they not Printed, and G. F's Letters at large that he writ concerning the Hat? but takes bits and pieces to Paraphraſe upon them; this is not fair.</p>
+            <p>And G F. and we are the ſame that ever we were, and do not pervert that 1 <hi>Cor.</hi> 1.11. concerning the Head being covered. And G. F. and others were not Truce-breakers, if ſome did write Letters to J. P. that were not with him at the Meeting at W. D's. And I never conſented that J. P's Papers ſhould not be called in, about the Hat and other things, as thou ſayeſt in pag. 12. and that Paper concerning taking a Whore, or one that had Pox, &amp;c. That was like the Ranters, and not like <hi>Chriſtians:</hi> But why did you not Print thoſe Papers at large, that the World might have ſeen what we Reproved J. P. for.</p>
+            <p>
+               <pb n="10" facs="tcp:108841:6"/>And J. P's Book concerning <hi>Presbyterians</hi> and <hi>Independents,</hi> &amp;c. ſpeaks it ſelf and needs no covering. And we never juſtifi<g ref="char:EOLhyphen"/>ed any <hi>Quakers,</hi> whoſe Natures were not changed, no more then J. P. did.</p>
+            <p>And as for J. P's Challenge to the Pope; That did manifeſt it ſelf ſufficiently, which was no Service to the Truth, nor Cre<g ref="char:EOLhyphen"/>dit to himſelf: and why was not that printed in this Book, as well as the reſt?</p>
+            <p>And as for I. P's Diſpute with the <hi>Baptiſts;</hi> he need not boaſt himſelf of that it manifeſted it ſelf; not find fault with <hi>G. White<g ref="char:EOLhyphen"/>head,</hi> whoſe care was for Gods Glory; and to have Reproached him for his forwardneſs. And the Lord knoweth, that we were more tender of his Wife and Children, then he was him<g ref="char:EOLhyphen"/>ſelf, as the end manifeſted it.</p>
+            <p>And many things might be ſpoken, to every particular thing, wherein he ſeems to juſtifie himſelf, and accuſe others; but he is gone, and therefore we ſhall forbear.</p>
+            <p>And it is true that G. F. and others did ſeek to keep J. P. in eſteem with Friends, and would have preſerved him, if it could have been done.</p>
+            <p>And as for J. P's <hi>Cencealing</hi> G F's <hi>Name, of his ill dealing with him, to his Wife;</hi> he mig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t have ſaid of his plain dealing: But as to that, let Friends in <hi>Ireland,</hi> and <hi>Tho. Holms</hi> there, and Friends in <hi>Jamaica</hi> ſpeak, whether he was not Grief and Sorrow enough to his Wife, and ruined his Children, that Friends were glad to keep them.</p>
+            <p>And when G.F. was in <hi>Jamaica,</hi> did not he encourage Friends there to be tender of his Children; and ſo it was J. P's work to make Strife and Contention. And what he ſaid to T. M. in
+<hi>Cornwall,</hi> and others there, it is plain enough what he faid there. And he could never clear himſelf for judging Friends for riding of Horſes, when he would not Ride himſelf; but afterwards came to Ride himſelf, ſo was a fickle uncertain man.</p>
+            <p>And as for his Ten Queries, much of them is true upon him<g ref="char:EOLhyphen"/>ſelf. And the Lord knoweth, we never ſought to Rob him of his good Name, but to have preſerved him, if it could have been, and our love did cover many things in him. And this Let<g ref="char:EOLhyphen"/>ter
+<pb n="11" facs="tcp:108841:6"/>was written in 1664. and ſent to R. R. but never to G. F. For had he ſent to him, it had been anſwered before he dyed.</p>
+            <p>But was not J. P. gone out of the very form of Truth before he dyed? let the people in
+<hi>Jamaica</hi> ſpeak. When he was a Clark, and ſwore people? Did they not ſay, <hi>He would Swear them all to Hell?</hi> And this <hi>Paper</hi> was written from <hi>Jamaica.</hi> And when did G. F. ſend any Letters to him at <hi>Jamaica?</hi> becauſe he ſaith, <hi>G. F. hunted him as</hi> Saul <hi>did</hi> David.</p>
+            <p>And whereas J. P. ſaith, he cannot but ſay, <hi>He retains a pure Affection and a real Love for</hi> G. F. Here in this <hi>Paper</hi> he hath not ſo manifeſted it, nor before, neither did his end manifeſt it, like <hi>Davids,</hi> nor a little Lamb of God.</p>
+            <p>And G. F's Letter, it had been well if J. P. had received the Counſell therein, who pretended to go to preach the Goſpel; but did not he leave that a little after he came to <hi>Barbadoes, Ja<g ref="char:EOLhyphen"/>maica, Virginia,</hi> and run quite into the World? Let <hi>Jo. Taylor</hi> and <hi>James Penick,</hi> who were then at <hi>Jamaica,</hi> and knew his end, ſpeak. And did not ſome in
+<hi>Virginia</hi> Curſe the day that ever they knew him?</p>
+            <p>And as for this <hi>paper</hi> R. R. ſaith <hi>was written a little before his Death;</hi> but there is no date to it, we cannot believe it.</p>
+            <p>And was not J. P. gone into ſo much looſeneſs and drinking, did not <hi>Jo. Taylor</hi> ask him what Friends in <hi>England</hi> would ſay of it? (ask <hi>Jo. Taylor</hi> and <hi>James Penick</hi>) who was of ſuch a fret<g ref="char:EOLhyphen"/>ful diſcontented Spirit, that every one which ſought his good, even <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is trueſt Friends, he took occaſion againſt them.</p>
+            <p>And in p. 19. he ſaith, <hi>Ah! plead not a Cauſe for me,</hi> &amp;c. and not to rake the
+<hi>Aſhes</hi> out of the Grave, to ſlay them and kill them a freſh, to make dead men live.</p>
+            <p>And now you that pretend to be his Friends, are ye not doing it? For all theſe things were paſſed by us, and forgiven long ago: But ſomething we are neceſſitated to write to clear the Truth, who have kept theſe Writings ſo long after J. P. was dead, and never ſent them to thoſe that were concerned, which is neither <hi>Chriſtian</hi> nor Humane, let the Reader judge.</p>
+            <p>And yet J. P. ſaith, <hi>That he had ſo much Life as to forgive all,</hi> (he ſaith ſo in Words, and ſo little Life) <hi>as not to take Vengeance on any, nor to ſeek it,</hi> as in pag. 19.</p>
+            <p>
+               <pb n="12" facs="tcp:108841:7"/>
+               <hi>Anſw.</hi> If his and R. R's practice had ſhewed what his Tongue ſpeaks but both his practice and his paper ſpeaks con<g ref="char:EOLhyphen"/>trary, and they that be his abettors or takers of Vengeance in publiſhing theſe things to the World. And if theſe things had been true, which he charges others with perſecuting of them; it is an evil mind to publiſh them ſo long after he wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dead. But the Lord knoweth, all that was done by Word or Writing, was for his good and admonition.</p>
+            <p>And he ſpeaks in pag. 20. <hi>That Patience and Forgiveneſs of Spirit might flouriſh</hi> And had he been in it, and practiſed it, he would not have been of ſuch a fretting diſcontended Spirit a<g ref="char:EOLhyphen"/>gainſt them that wiſhed him well. And many J. P. called his
+<hi>Lambs</hi> and <hi>Children,</hi> which did not ſhew forth the Nature of the Lambs of Chriſt, nor Children of God.</p>
+            <p>And J. P. ſaith, <hi>He judgeth no man; for I am not willing to know the Good from the Evil,</hi> ſpeaking of perſons, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Then let the Reader ſee in his papers before, whether he doth not contradict himſelf? and his <hi>Abettors</hi> are of a con<g ref="char:EOLhyphen"/>trary mind. But Words cannot deceive; doth not his and their practice ſpeak contrary in his judging before? and this is not true ſpeaking.</p>
+            <p>And he ſaith, <hi>He will not know Good from Evil;</hi> and yet makes that Evil which was Good to him, and care for him. And further J. P. ſaith, <hi>That be would rather ceaſe to Preach the Goſpel of Peace,</hi> &amp;c. <hi>then to Preach it without the Life in him.</hi>
+            </p>
+            <p>So how could this Letter be given forth a little before his Death? For had he not left the Goſpel preaching both in Word and Life? as he pretended, when he had gotten a Ship, and ſhor off his Guns, and feaſted the Governour, who had been Whipping two Servants of the Lord a few dayes before. And at <hi>Jamaica</hi> who turned a Clark, and after a Trooper; this is not like a Goſpel preacher: But this is boaſting, and not diſ<g ref="char:EOLhyphen"/>charging an honeſt Conſcience among the people of God in <hi>Ja<g ref="char:EOLhyphen"/>maica.</hi> And let <hi>Jo. Taylor</hi> ſpeak the cauſe why he and others there turned from him; ask them, and let them ſpeak.</p>
+            <p>And as for J. N's Letter in pag. 21, 22. but is no date to it: and <hi>That J. N. and J. P. did receive greater Wounds from their Friends then from their Enemies.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:108841:7"/>But J. N. doth not ſay ſo in his Repentance and Condemnati<g ref="char:EOLhyphen"/>on of his going forth; neither would J. P. if he had Repented. And its abuſing of J. N. to print ſuch things ſo long after his Re<g ref="char:EOLhyphen"/>pentance and Death, and doth ſhew forth much Malice and En<g ref="char:EOLhyphen"/>vy to ſober people in R. R.</p>
+            <p>And as for <hi>Robert Riches Animadverſions,</hi> and his <hi>Abettors</hi> up<g ref="char:EOLhyphen"/>on G. F's paper, he hath but manifeſted his own Folly and Ma<g ref="char:EOLhyphen"/>lice.</p>
+            <p>And as for <hi>Jo. Harwoods</hi> Book, he hath ſufficiently manifeſt<g ref="char:EOLhyphen"/>ed himſelf to all that knew him. And as for ſpiritual Wicked<g ref="char:EOLhyphen"/>neſs in high places, R. R. might better have applyed that at home.</p>
+            <p>And R. R's ſaying, That <hi>G. F. ſent Papers to Reproach Inno<g ref="char:EOLhyphen"/>cent</hi> John, <hi>and</hi> Jane Stoaks, <hi>by his Servants</hi> Joſeph Nicholſon <hi>and</hi> Henry Fell.</p>
+            <p>That is falſe, G. F. did not ſend them to reproach them, but that they might have Repented; which <hi>Jane Stoaks</hi> hath, and hath given forth a good paper of Condemnation; and why did not R. R. print that.</p>
+            <p>And as for R. R's Scoffs, in calling <hi>J. Nicholſon</hi> and <hi>H. Fell</hi> G. F's Servants, in this R. R. manifeſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Spirit of Envy, Bit<g ref="char:EOLhyphen"/>terneſs and Lying. And why did not R. R. print thoſe four Let<g ref="char:EOLhyphen"/>ters he ſpeaks of, concerning J. P. as well as one of G. F's Let<g ref="char:EOLhyphen"/>ters that they might have been ſeen?</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>Whether theſe be not the Floods of the Dragon, caſt out of his Mouth to devour the Man-child that muſt Rule? though</hi> G. F. <hi>be angry at that,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> And what, is J. P. this Man-child that muſt rule? We ſay it is Chriſt that muſt rule, who was the Man-child. And as for the Dragon-Flood <hi>R. R.</hi> might better have applyed this at home. And G. F. did not hinder the Teſtimony of Truth, nei<g ref="char:EOLhyphen"/>ther in J. P. nor
+<hi>J. Harwood,</hi> they run quite out of it, as their Fruits and Ends declared it.</p>
+            <p>And as for <hi>R. R's</hi> railing Language, for ſaying G. F. <hi>hath ſhot many Bitter and Venomous Arrows, and thrown his Javelin againſt</hi> J. P's <hi>Amity and <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>Theſe railing Expreſſions <hi>R. R.</hi> might have kept at home, they ſute his own Spirit beſt; and the end of his Amity and Unity hath
+<pb n="14" facs="tcp:108841:8"/>manifeſted it ſelf: But the Light, Grace and Truth, and the Spirit of God that is poured upon all, that is owned in all, there is no ſeperation in it: but the ſeperation is among them that talk of it, and do not walk in it, and there the Amity and Unity is wanting. And ſuch as walk (of what people ſoever) according to the Grace, and believe in the Light of Chriſt Jeſus, we own But there are few Sects, but they call the Light (which is the Life in Chriſt the Word) Natural. And ſuch as make a Profeſſion of the Light, and do not walk according to it, as J. H. and J. P. and others have done, as their End did manifeſt, ſuch the Light doth Teſtifie againſt, as well they that were call'd <hi>Quakers,</hi> as others, And if J. P. and J. H. had ſtoopt to all Sects, to bring them out of Evil, they would not have run into it themſelves: But it is not Words, but the Fruits, and the End, and the Day declares every mans work, as it hath done, and will do R. R's.</p>
+            <p>And when did <hi>Seekers, Presbyterians, Independants, Baptiſts</hi> and others ſay, they believe in the Light, which lighteth every man that cometh into the World withall? have they not called it a <hi>Natural Conſcience?</hi> which Light, Grace and Truth we own in all men, by which God doth gather people to himſelf; as it is written, <hi>The gathering of all Nations ſhall be to</hi> Shiloh. But they that talk of theſe things, and turn the Grace of God unto Wantonneſs, and hate the Light, are by it condemned.</p>
+            <p>And G. F. and we have not condemned any appearance of God, but ſuch as make their Imaginations the motion and ap<g ref="char:EOLhyphen"/>pearance of God; as J. P. one while kept on his Hat in time of <hi>Prayer,</hi> and another while put it off; and one while againſt Swearing, and another while run into it.</p>
+            <p>And whereas R. R. ſaith, <hi>That G. F's Name and Authority ſhall Rot and Stink, as the Dung; then ye ſhall know that a Prophet hath been awong you, whom ye have rejected, even</hi> Elias.</p>
+            <p>
+               <hi>Anſw.</hi> It ſeems J. P. is this <hi>Elias,</hi> that came in the Name of the Lord, as
+<hi>R. R.</hi> ſaith: But theſe are his preſumptious Ima<g ref="char:EOLhyphen"/>ginations, as you may ſee in pag.
+24.</p>
+            <p>And G. F. and we have Authority to judge and condemn ſuch Imaginations, and Sin and Evil; and that is it that will Rot and Stink as Dung, which thou might have applied at home.</p>
+            <p>
+               <pb n="15" facs="tcp:108841:8"/>And its falſe, G F. doth not Revile that which was firſt given to the Saints, or that which he firſt preached: Neither is he nor we fallen from it, and become Perſecutors of it, to wit, the Light in every mans Conſlience, &amp;c. by which every man is to be led, and if not, he is admoniſhed to it; and if he hate it, he is condemned by it: and this is not perſecution, as <hi>R. R.</hi> falſly accuſeth. And it is not well for thee to apply thoſe words to G. F. that were ſpoken to J. P. poor Man, he fulfilled them, his end manifeſted it. And we know, that every one that fear<g ref="char:EOLhyphen"/>eth God and works Righteouſneſs is accepted of him; this is no new thing to us.</p>
+            <p>Thou ſayeſt, <hi>Its vain for G. F. to ſhut up the Kingdom againſt others,</hi> &amp;c. And further <hi>R. R.</hi> ſaith, <hi>Thy Spirit is much blinded from beholding Gods preſent work in the World,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw. R. R.</hi> might have applyed this to his own Spirit: For G. F. nor we ſhut not the Kingdom of Heaven to any, but that all might come to the Light of Chriſt, and ſee the King<g ref="char:EOLhyphen"/>dom, and come into the Kingdom. But this Railing Spirit of <hi>R. R's</hi> is out of the Light and Spirit of Chriſt, and our of his Kingdom, and rails againſt them that be in it, who once were Darkneſs, but now are they Light in the Lord, and in his Light behold his Works, and declare his Works what he is doing: and though thou mayeſt boaſt thy ſelf of the Kingdom, yet thy railing Language mani<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſts thee, like the
+<hi>Phariſees,</hi> who called themſelves <hi>Children of the Kingdom,</hi> but were ſhut out: And therefore take heed and Repent <hi>R. R.</hi> if it be not hid from thine Eyes.</p>
+            <p>And God ſending his Son a Light into the World, <hi>who light<g ref="char:EOLhyphen"/>eth every man that cometh into the World,</hi> &amp;c. And whoſoever believeth in him, and followeth him, ſhall have everlaſting Life. And God writing his Law in the Heart, and putting it in the minds of his people; <hi>And as the Law came by</hi> Moſes, <hi>ſo Grace and Truth came by Jeſus Chriſt, which has appeared to all men.</hi> This is not an offence, and Stone of ſtumbling to G. F. as
+<hi>R. R.</hi> falſly imagins and ſaith; neither is it our Practice to have dominion over the Faith of others, nor to limit the Light of Chriſt. Theſe are thy own Imaginations and falſe Charges. And as for <hi>Antichriſt, Mother of Harlots,</hi> and <hi>Dragon,</hi> and
+<pb n="16" facs="tcp:108841:9"/>
+               <hi>Babylon,</hi> &amp;c. which thou often mentions, <hi>R. R.</hi> might have ap<g ref="char:EOLhyphen"/>plyed it at home to his airy Notions.</p>
+            <p>And <hi>R. R.</hi> often uſes the word <hi>Hallelujah,</hi> and ſaith, <hi>The accu<g ref="char:EOLhyphen"/>ſer of the Brethren is caſt down.</hi>
+            </p>
+            <p>Now let the Reader ſee, if <hi>R. R.</hi> be not the accuſer in this Book and it were well if he were caſt down.</p>
+            <p>And <hi>R. R.</hi> talks of the <hi>new Birth,</hi> and <hi>of the Lyon lying down with the Lamb.</hi> But this is not the Fruits of it, nor of <hi>Mercy and Truth kiſſing each other.</hi> And what if <hi>Anne Clayton,</hi> which thou ſayeſt is thy Servant, to wit, G. F. did ſend Copies into <hi>New-England, Virginia</hi> and <hi>Maryland,</hi> &amp;c. that none might be deceived with that Spirit: and this was not the Seed of Enmity to oppoſe
+<hi>Michael</hi> the Prince, &amp;c.</p>
+            <p>And who is this <hi>Michael</hi> Prince of Love? Is it J. P? nay, nor <hi>R. R.</hi> neither, as thou ſpeaks of in pag. 26. We cannot own you ſo to be. And why did not <hi>R. R.</hi> print the Letters at large (which <hi>Anne Clayton</hi> ſent abroad,) that they might have been ſeen? And that which was written to J. P. and <hi>Charles Bayley</hi> was for their good, and to others, that they ſhould not run into ſuch things, as ſome had run into. And <hi>Jane Stoaks</hi> hath con<g ref="char:EOLhyphen"/>demned what was amiſs in her, as I faid before; and thou doſt not well to bring up her Name ſo often in Print. But as for <hi>Charles Bayley,</hi> he run quite out of the Form of Truth, and his end ma<g ref="char:EOLhyphen"/>nifeſted him, as did J. P's. And it had been well for them, if they had been reclaimed to the Truth, and thee alſo, a <hi>Jane Stoaks</hi> is, then thou wouldſt not have been found in this work of bring<g ref="char:EOLhyphen"/>ing up the Dead in Print, as thou haſt done.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>What if</hi> J. P. <hi>did wear a Carnal Sword, and Gandy Apparel, and a Staff tipt with Silver, and ſhot off Guns,</hi> &amp;c. And then asks, whether there be not a time, and a ſeaſon for all theſe things?</p>
+            <p>And thou ſayeſt, <hi>G. F. is very angry with</hi> J. P. <hi>that he ſhould wear a Staff tipt with Gold, which Major General</hi> Muddy ford <hi>gave him, and if he had refuſed it, he had rejected the love of God.</hi> And then thou falls a railing of G. F. and ſaith, <hi>His Eye is evil,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> It is falſe, G. F. doth not Reproach J. P. in telling
+<pb n="17" facs="tcp:108841:9"/>him thoſe things that were true; for he pretended to go Preach the Goſpel, as may be ſeen in pag. 20. But did the Apoſtles go to preach the Goſpel with outward Swords and Guns, and gorgi<g ref="char:EOLhyphen"/>ous Apparel, and Saff tipt with Gold? And did not J. P. pre<g ref="char:EOLhyphen"/>tend, that he would not kill a Louſe, a Rat, nor a Worm, when he was in <hi>England,</hi> and elſewhere? Then what would he do with his Cannons, and his Carnal Sword, and his Staff tipt with Gold? Had he not here denyed his former Principle and Spirit, who had come out of ſuch things formerly? And thou abuſeſt G. F. in ſaying, <hi>He was Angry with</hi> J. P. <hi>for his Staff tipt with Gold.</hi> Nay, that is a miſtake, though J. P. might be puffed up with ſuch things, and ſuch as thee: But that he ſhould pre<g ref="char:EOLhyphen"/>tend one thing, and act contrary to his own Principles, ſuch things did deſerve Reproof: And the Staff tipt with Gold, thou ſayeſt, <hi>If he had rejected it, he had rejected the Love of God.</hi> So highly he and thee eſteem or it, it ſeem. And G. F. doth not limit the Light of Chriſt in mens Conſidences.</p>
+            <p>And whereas R. R. tells a great Story of <hi>Hammon, Mordecai, Joſeph</hi> and
+<hi>Daniel,</hi> and of <hi>Eſther's</hi> Feaſt, &amp;c. to juſtifie J. P. in thoſe Vanities before mentioned.</p>
+            <p>
+               <hi>Anſw.</hi> Thou goeſt far back for thy proof; and waſt thou not telling G. F. of being Baptized to <hi>Moſes</hi> in the Cloud, and a Vail was come over his Heart? as thou mayſt ſee in pag. 24. So read this at home, and apply it to thy ſelf; for it is not G. F's Condition.</p>
+            <p>And J. P's feaſting the Governour, a few dayes after he had been Whipping of Friends, and letting off his Gun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; this is no compariſon to
+<hi>Eſthers</hi> Feaſt, his End declared it. And if R. R. could have diſtinguiſhed between the Shadows and the Sub<g ref="char:EOLhyphen"/>ſtance, he would not have gone about to juſtifie J. P. in theſe things, or had been in the Law of Love to his Neighbour, he would not have publiſhed theſe things to the Eye of the World. And G. F. doth not Curſe that which God doth Bleſs: R. R. this is from an airy Spirit, and not from the Law of Love.</p>
+            <p>And thou tells in pag. 27. Of <hi>ſuch as ſhall Ride in the ſecond Charriet of</hi> Pharoah, <hi>and judge the Mount of</hi> Eſau, <hi>not in the Tower of Carnal Wrath and Enmity, as</hi> Hagar's <hi>Children do.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:108841:10"/>
+               <hi>Anſw.</hi> Thou and thy J. P. its like loved this high place: But look, art not thou in the Mount of <hi>Eſau,</hi> that Hunter after the Juſt, and againſt
+<hi>Jacob,</hi> and in the Nature of <hi>Hagars</hi> Children, in the Tower of Wrath and Enmity, and not in the Law of Love? thy Spirit doth not manifeſt otherwiſe.</p>
+            <p>And thou ſpeakſt of the <hi>Sons of</hi> Sions <hi>Affecters ſhall come bend<g ref="char:EOLhyphen"/>ing and ſtooping to this Government of Love,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> It had been well if R. R. and J. P. had done this, who were Afflicters of the Sons of <hi>Sion.</hi> But R. R. and J. P's work hath not ſhewed the Fruits of the Government of Love, but of Envy and Bitterneſs againſt them that ſought J. P's good: for Love thinks no Evil, Vaunts not it ſelf, and Envys not; but much of the contrary may be ſeen in this Book. And J P's Feaſting with the Governour, and ſhooting off his Guns, was not like <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> Feaſting his Brethren.</p>
+            <p>And thy ſaying, <hi>It was the Love of God in Major General</hi> Muddyford, <hi>in giving</hi> J. P. <hi>a Staff tipt with Gold, and if he had refuſed it, he had rejected the Love of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But did Major <hi>Muddyford</hi> manifeſt the Love of God, when he tyed Friends Neck and Heels together, and took away their Goods in <hi>Jamaica,</hi> becauſe they could not bear Arms? which J. P. did, and ſtrengthened their Bonds, as may be ſeen in the
+<hi>Chronicle</hi> of Sufferings in <hi>Jamaica,</hi> which was laid before Major General
+<hi>Banniſter.</hi>
+            </p>
+            <p>And further, R. R. ſaith, <hi>Why may not</hi> J. P. <hi>wear any ſort of Apparel, what is beſt, and ſutable to his Place and Calling, whe<g ref="char:EOLhyphen"/>ther it be Velvet or Sattin,</hi> &amp;c?</p>
+            <p>
+               <hi>Anſw.</hi> But had not J. P. judged ſuch things, together with Swords and Guns? and hath he not made himſelf a Tranſgreſſor, in building up that which he once deſtroyed? For did not he deny eating of Fleſh when he was in <hi>England?</hi> ask R. T. and alſo judge Friends for Riding of Horſes and yet after himſelf could Ride of Horſes, which manifeſts his changeable brittle Spirit, as is ſaid before. And Chriſt did give <hi>Judas</hi> a Sop, and called him <hi>Friend;</hi> and take heed R. R. that thou be not found in his Steps, betraying the Juſt, and ſuch a kind of a Friend to Chriſt.</p>
+            <p>And G. F. and others admoniſhing J. P. was not with an evil
+<pb n="19" facs="tcp:108841:10"/>Eye, nor an exalted mind, but in reſpect to the Truth, nor be<g ref="char:EOLhyphen"/>cauſe G. F. nor they had no better Food, then Carnal things to ſeed upon. But its J. P. and thee that feed upon ſuch things, and the Root muſt be in your Hearts, that feed upon ſuch things, and puts them on: For the Apoſtle doth ſpeak in way of Reproof to them that run into <hi>Gay Apparel,</hi> and wearing of <hi>Gold;</hi> and from that Root within thee hath all this Bitterneſs, and Envy, and Uncharitableneſs come: And take heed R R. that that is not thy own condition in pag. 28. as in <hi>Cain's</hi> Sa<g ref="char:EOLhyphen"/>crifice, and one of thoſe Prophets there thou ſpeakſt of, ſpeaking of the Light within, and cover the <hi>Altar</hi> with <hi>Tears,</hi> who is out of the <hi>Law</hi> of <hi>Love:</hi> And if thou giveſt all thy Goods to the Poor, and be not in the Law of Love, it is nothing but a Tinkling Sim<g ref="char:EOLhyphen"/>ball. And this is Envy in R. R to ſay, that G. F <hi>Condemus that which God accepts, without Spot or Blemiſh;</hi> although thou often puts in the word <hi>Though.</hi>
+            </p>
+            <p>And again, R. R. ſaith, G. F. <hi>was much offended at</hi> J. P's <hi>wear<g ref="char:EOLhyphen"/>ing a Sword, and Carnal Weapons: as if in a Civil State or Com<g ref="char:EOLhyphen"/>mon Wealth there is no uſe or place for ſuch things,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Cannot <hi>carnal</hi> things be kept without <hi>carnal</hi> Wea<g ref="char:EOLhyphen"/>pons? What
+<hi>carnal</hi> Weapons had <hi>Adam</hi> before he fell? And doth G. F. meddle with Magiſtrates, for bearing the Sword, for puniſhing the Evil-doers, and for the Praiſe of them that do well? But G. F's and others Reproof and Admoniſhment was to J. P. becauſe he had judged and denyed ſuch things, and cal<g ref="char:EOLhyphen"/>led himſelf a <hi>Miniſter</hi> of the <hi>Goſpel of Peace,</hi> and not a Magi<g ref="char:EOLhyphen"/>ſtrate: For had not J. P. denyed the wearing a Sword, and <hi>carnal</hi> Weapons, and profeſſed himſelf a Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel of Peace, and to have Spiritual Weapons? and then did he not deny them, when he went into the Carnals? and in this did not he manifeſt that he was gone from his firſt principle and condemn'd himſelf?</p>
+            <p>And Chriſt ſaying, <hi>Give</hi> Caeſar <hi>his Due:</hi> And the Apoſtle ſaying,
+<hi>Be ſubject to every Ordinance of man, for the Lord's ſake.</hi> But where doth Chriſt or the Apoſtle ſay, they muſt render Obedience in Matters Unjuſt? then how did the Apoſtle ſuffer?
+<pb n="20" facs="tcp:108841:11"/>and how were the Apoſtles and Church obedient active or paſ<g ref="char:EOLhyphen"/>ſive?</p>
+            <p>And R. R. ſaith, <hi>He believes that</hi> J. H<hi>'s Article is True againſt</hi> G.F.
+<hi>&amp;c.</hi>
+            </p>
+            <p>If R.R. be given up to believe Lyes, who can help it? And as for <hi>Foxes having Holes and Crafty Evaſions,</hi> thou migh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt have kept at Home: For when Friends, by motion of ſome in the Parliament, that would not have them perſceuted, deſired them to nominate ſome in the Country, that were ſober men, that would not perſecute us. And therefore R. R. ſcoffingly ſaith, <hi>Who of the</hi> Quakers
+<hi>ſhould act in ſuch a thing, without his good liking,</hi> &amp;c.</p>
+            <p>And here R. R. in Envy raiſes up J H's Lyes and Forgeries, and believes them, and puts them the ſecond time in Print, and would lay that paper upon G. F. which Friends did write in an<g ref="char:EOLhyphen"/>ſwer to ſome moderate Parliament Men, that would not perſe<g ref="char:EOLhyphen"/>cute, which thou and
+<hi>Harwood</hi> in your Malice would lay upon G. F. when G. F. was neither in <hi>London</hi> at that time when it was given forth, nor knew of it: And therefore this is in Malice, and Envy, and Forgery, and not in the Law of Love.</p>
+            <p>And why doſt thou Envy and ſay, G. F. <hi>was buſie Numbring the People in</hi> 1659. becauſe the ſuffering people of God pre<g ref="char:EOLhyphen"/>ſented their Sufferings to the Parliament with 1500. Hands? And at another time thou fayeſt 1000. preſented to the Parliament their Cruel Sufferings in the other Powers dayes, and this thou maliciouſly callſt a <hi>Great</hi> &amp; <hi>Potent Army.</hi> Is R. R. here in the Law of Love, or one of <hi>Hagars</hi> Children, Perſecuting and Scoffing them which are of the Royal ſeed; and his Envy and Rage againſt us manifeſt, his Spirit, like them that perſecuted us for laying our Sufferings before the Parliament.</p>
+            <p>R. R. thou ſayeſt, Thou <hi>haſt ſeen an Act of Parliament for ſettling the Militia at</hi> Weſtminſter, <hi>dated the</hi> 28th <hi>of</hi> June, 16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. <hi>no leſs then five all noted</hi> Quakers, N. B. A. S. W. W. S. H. <hi>and</hi> R. D. <hi>theſe were choſen to be of that Committee,</hi> &amp;c. <hi>who were impowered by the Act aforeſaid, to chuſe who they thought fit to bear Arms.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:108841:11"/>
+               <hi>Anſw.</hi> G. F. knows nothing of this; and all theſe Men are dead long ago, and cannot ſpeak for themſelves: and all this does not clear R. R. of his Lyes and Slanders againſt G. F. but ſhews a great deal of Revenge in <hi>R. R.</hi> And for J. H. or R. R's ſay<g ref="char:EOLhyphen"/>ing, endeavouring to exalt himſelf over the Government of the Nation, as it ſeems to thee; this is abominable Envy in R. R. and J. H. And though G. F. did ſuffer in the Dungeon at
+<hi>Dar<g ref="char:EOLhyphen"/>by</hi> ſix Moneths, becauſe he would not take up Arms, or Car<g ref="char:EOLhyphen"/>nal Weapon, againſt the King, and to bear Office a little before <hi>Worceſter</hi> Fight; yet this does not prove that G. F. is againſt Magiſtrates bearing the Sword, nor the Government of Chriſt Jeſus: For Chriſt ſaith, his <hi>Kingdom is not of this World, if it were his Servants would fight.</hi>
+            </p>
+            <p>And R. R. after he hath ſpoken in pag. 30. of the Magiſtrates Impoſing Faith and Worſhip, &amp;c. Then he ſaith, <hi>Let</hi> G. F. <hi>conſider, whether the ſame Spirit of Impoſing upon others, hath not been evidently demonſtrated in his <g ref="char:V">Ʋ</g>nquiet and <g ref="char:V">Ʋ</g>ncharitable proceeding againſt his Brethren? which is no better then the Beaſt, where ever it be found, though among the</hi> Quakers.</p>
+            <p>
+               <hi>Anſw.</hi> R. R. why canſt not thou ſpeak without Reflection? as for Uncharitableneſs thou hadſt better have kept that at home; for hadſt thou been in the Love, thou wouldſt not impoſe upon us to believe J. H's falſe Articles againſt G. F. becauſe thou be<g ref="char:EOLhyphen"/>lieveſt them, who believeſt a Lye, which G. F. hath ſufficiently cleared. And in comparing G. F. and the <hi>Quakers</hi> like to the Magiſtrates impoſing F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith upon People: In this thou art out of Charity, and thy compariſon is too lite, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or G, F. and we turn people to the Light of C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſt, who is the Author of their Faith.</p>
+            <p>And though our Friends in <hi>Rhod<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Iſland had the Government for many Years; though they had many forts of Religions a<g ref="char:EOLhyphen"/>mong them, yet they did not impoſe Religions, nor Faith upon any: And ſo thou goes on, and tellſt a Story of the <hi>Pope</hi> and <hi>Lucifer,</hi> &amp;c. and the <hi>true Fai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> and <hi>Worſhip</hi> of Chriſt, &amp;c. and how the
+<hi>Apoſtacy</hi> ſprang, and from whence it ſprang, and of ſuch whoſe <hi>Tallon</hi> are <hi>grown like Monſters,</hi> and ſuch as are <hi>ſup<g ref="char:EOLhyphen"/>porters of falſe Prophets, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:108841:12"/>
+               <hi>Anſw.</hi> But R. R. if thou ſaweſt thy ſelf with the Light of Chriſt, and what Spirit thou art of, it were better for thee, and if thou ſeeſt thy own Tallon, and what thou haſt ſupported, and where thou art.</p>
+            <p>And thou ſpeaks of informing G. F. and others, how far he owns the <hi>Civil Power,</hi> in pag. 30. and 31. as in things only <hi>Ex<g ref="char:EOLhyphen"/>ternal,</hi> and <hi>transferring Juriſdiction upon the Shoulders of Chriſt Jeſus:</hi> So alſo thou mayſt Reflect from hence of thy deportment towards others, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> In this thou doſt not reach nor hit the matter in thy Accuſation; For the Government of Chriſt and the Civil Power we know very well, without thy Information; and the Lord is to rule in the Conſcience with his Light, Grace and Spirit; and it hath been our deſire, that all might obey the Lord and the Magiſtrates, either <hi>Active</hi> or <hi>Paſſive:</hi> And as for thy many other Reflections, indeed they are not worth mentioning.</p>
+            <p>And in pag. 32. That which G. F. writ to J. P. which thou callſt <hi>Reproaching,</hi> did not he turn like a Dog to the Vomit? and what was his End? let them of <hi>Jamaica</hi> ſpeak: and what was his pretended Paper of Curſes, in keeping on his Hat in time of Prayer, and afterward could put it off to Men, as R. R. often ſpeaks of in this Book. And G. F's Words were not from the Spi<g ref="char:EOLhyphen"/>rit of <hi>Rabſhekey,</hi> neither are they written againſt G. F's own Life and Practice, neither are they particular'd to himſelf, nei<g ref="char:EOLhyphen"/>ther is he fallen upon the point of his own Sword, and ſo wound<g ref="char:EOLhyphen"/>ed that he can never recover: Nay, its R. R. that would have it ſo, but he is miſtaken. <hi>And thus,</hi> ſaith R. R. <hi>hath the Bramble, with the conſent of the Trees, made himſelf King over the Chil<g ref="char:EOLhyphen"/>dren of Pride, Contention and Strife.</hi> Nay, this
+<hi>R. R.</hi> might have applyed at home; for is there not Contention and Strife in thy own Breaſt, and hath lodged there this many Years, and now is come forth, concerning ſo many perſons after they were dead, which thou haſt publiſhed to the World? and we knew J. P. very well, and thee; and would he and thee had known your own Spirits.</p>
+            <p>And thou ſayeſt, <hi>Where hath</hi> J. P. <hi>ſmitten at</hi> G. F. <hi>in all his writings; and this he challenges</hi> G. F. <hi>to prove with all his Men of War,</hi> &amp;c.</p>
+            <p>
+               <pb n="23" facs="tcp:108841:12"/>
+               <hi>Anſw.</hi> Theſe are ſcoffing Expreſſions; and let the Reader ſee in J. P's long paper, read pag. 4. where I ſuffered T. R. to Taunt very ſharply at him, &amp;c. Theſe are falſe Expreſſion? and where he goeth over and over, how we told him of his Charges and Coſts, which was his own fault, ſpeaking that to others which we ſpoke privately to him, and making compariſon in a<g ref="char:EOLhyphen"/>buſive way of divers Miniſters Expences at home, and his Re<g ref="char:EOLhyphen"/>flecting upon Friends for telling him of his Evening-Meetings, that brought Perſecution and Sufferings upon Friends, that ſome turned their Backs of the Truth, and making compariſon with the Meetings kept at <hi>G. Roberts</hi>'s. And what are theſe words, Perfideous-dealing, Truce-breaking, as in pag. 12. and 13. and <hi>G. F's Judgment Haſty and Raſh,</hi> and <hi>G. W's forward<g ref="char:EOLhyphen"/>neſs,</hi> ſee a Catalogue of theſe things in pag. 13. Thy ill deal<g ref="char:EOLhyphen"/>ing with me, a Catalogue of his bad Language might be gather<g ref="char:EOLhyphen"/>ed up, though he ſcoſſingly ſaith, <hi>I have proof of thy piety what they are.</hi> Beſides his Language in other Papers; and all theſe things were falſe, and not true, for the Lord knoweth our Tenderneſs and G. F's towards him. But all theſe things have been buried in Oblivion But R. R. this raiſes the Dead, and not the Living.</p>
+            <p>And if J. P. and R. R. had been in that Love that can bear all things, then why did you ſo complain, and if J. P. had deny<g ref="char:EOLhyphen"/>ed himſelf, and was of no Reputation? his Letters nor thine do not ſhew it ſo; and if he had waited for the Reſurrection from the Dead, his End would have manifeſted it, and not gone into ſuch looſe Actions.</p>
+            <p>And as for thy ſpeaking of that <hi>Shame</hi> and <hi>Reproach, where<g ref="char:EOLhyphen"/>with his Enemies did cover him, if not from the Generation G. F. calls Friends; and yet from others that muſt ſucceed him, as</hi> Da<g ref="char:EOLhyphen"/>vid <hi>did</hi> Saul <hi>in the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> And if <hi>R. R.</hi> and his others do ſucceed J. P. take heed leſt your end be like his; and not like <hi>Davids,</hi> but <hi>Sauls:</hi> And as for Reproaches, that
+<hi>R. R.</hi> might have kept at home; the Lord knoweth, we ſought his good, in Writing or Speaking to him, and not to Reproach him.</p>
+            <p>And <hi>R. R.</hi> ſaith G. F. <hi>is now turned to the Witch of the Mind,
+<pb n="24" facs="tcp:108841:13"/>man's own Wiſdom,</hi> &amp;c. <hi>which can certainly raiſe all man's fancies or fears to trouble him, and then walk like him poſſeſſed among the Tombs, and Ghoſts of Darkneſs, and converſes with thoſe evil Familiars, Zims, and Imms of the Deſart,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> If <hi>R. R.</hi> hath not manifeſted a great deal of Enmity here in theſe Railing Expreſſions, let the ſober in Heart judge, and whether he hath not baniſhed the Spirit of Faith, Love and Charity from him? and his ſlandrous foul Mouth had better have kept theſe Lyes at home, and applyed them to his own Spirit, and to ſuch as pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted his Book; for G. F. is clear of them.</p>
+            <p>And then <hi>R. R.</hi> makes a great Noiſe about J. P's <hi>Amity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and about the <hi>papers</hi> concerning his <hi>Hat,</hi> and ſaith, That J. P. <hi>ſometimes pluckt off his Hat in time of Prayer, and at other times kept it on; and this was his freedom,</hi> pag. 33.</p>
+            <p>
+               <hi>Anſw.</hi> And in pag. 7. J P. ſaith, The Lord required it on him to keep on his Hat in time of <hi>prayer;</hi> and for him to do con<g ref="char:EOLhyphen"/>trary to the Motion of the Spirit, and thereby to Sin againſt his God. So here R. R. and J. P. contradict one another.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>Even as his Light and freedom led him, to ſhew that the thing was to him indifferent.</hi> What, <hi>R. R.</hi> a com<g ref="char:EOLhyphen"/>mand of God, and ſin againſt God, and yet a thing indifferent, and father this upon the Light! Oh, father not ſuch Imagina<g ref="char:EOLhyphen"/>tions of your own Brain upon the motion of the Light and Spi<g ref="char:EOLhyphen"/>rit of God! but dread and fear the living God. And G. F. doth not by Subtilty and Craft endeavour to bleſs that which God hath curſed, neither doth G. F. preach to the World, that the Light is an uncertain thing; But that R. R. might have kept at home. Neither is G. F. an Enemy to the Leadings of the Light nor a Judge above it, nor his Friends called <hi>Quakers,</hi> the Lord knoweth; this <hi>R. R.</hi> might have kept at home.</p>
+            <p>But <hi>R. R.</hi> ſaith, <hi>Whether</hi> G. F. <hi>be clear from preſecribing and impoſing upon others, what himſelf practices as his pretended Form,</hi> &amp;c. <hi>this will be worth the pains to examine, becauſe it may tend to undeceive the minds of the ſimple Ones, who are engaged to fol<g ref="char:EOLhyphen"/>low him, as their Lord and Leader, either for love of the Loaves, or ſome Carnal Ends,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Now let the ſober Reader ſee, whether this again be
+<pb n="25" facs="tcp:108841:13"/>not the Spirit of Malice and Scoffing Expreſſions: For it was never the practice of G. F. to direct People to follow him, nei<g ref="char:EOLhyphen"/>ther for Loaves, nor Carnal ends, but to follow Chriſt their Lord and Leader; for ſuch would ſoon fall off in the time of Suf<g ref="char:EOLhyphen"/>ferings and Tryals, as follow for Carnal ends. And as for Pa<g ref="char:EOLhyphen"/>ſtors ſpoiling Gods Heritage, R. R. might have kept that at home, with many more Reproachful words he hath in this pag. 33.</p>
+            <p>And we and G. F. uncovering our Heads in time of Prayer in publick Aſſembies, it hath been our practice in the Spirit and Power of God from the beginning, before either <hi>J P.</hi> or
+<hi>R. R.</hi> came among us, or the Ranters did oppoſe us; and t was the practice of the Church in the Apoſtles day, the Men to be un<g ref="char:EOLhyphen"/>covered, and the Women covered: And <hi>R. R.</hi> might as well find fault with the Apoſtle, and call it his Set-Form and preten<g ref="char:EOLhyphen"/>ded Cuſtom, as ours. For if it had been good for Males to have prayed covered, the Spirit of God in the Apoſtle would not forbid it, in which Spirit the worſhip of God is; and if <hi>R. R.</hi> doth pray with his Head covered in an Aſſembly, doth not he pray like a Woman covered? and ſo Tranſgreſſes the A<g ref="char:EOLhyphen"/>poſtle's Doctrine, and his Spirit? And doth not the Apoſtle reprove ſuch men as pray covered, or would have the Women uncovered, like the Men, and ſo make no diſtinction in the Sexes? And ſo G. F. preached the Apoſtles practice, and in this he was no more an oppoſer then the Apoſtle. So the Apo<g ref="char:EOLhyphen"/>ſtle nor G. F. were no oppoſers of the Faith firſt delivered to the Saints, the wiſe in Heart can judge, though the Ranters oppoſe it, and thou and J. P. have kept Hats on in time or Prayer; but R. R. can deceive none, but ſuch as himſelf: and in this G. F. doth not judge his Innocent Brethren; and we know that God doth not juſtifie you in keeping on your Hats in time of Prayer, publick Aſſemblies, no more then he did the Ranters.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>Why muſt Hat be kept on in common Civility, and put Hat off in worſhipping of God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> And <hi>R. R.</hi> why muſt it be put off to Man, and not to God in time of Prayer, in which they ſhew forth the Image of God? and why are men ſo offended if they have not that ho<g ref="char:EOLhyphen"/>nour?
+<pb n="26" facs="tcp:108841:14"/>and is <hi>R. R.</hi> offended becauſe he hath it not? or the prin<g ref="char:EOLhyphen"/>ters of his Book? and if he be, wiſer men then he and they are not.</p>
+            <p>And all this that <hi>R. R.</hi> hath ſaid concerning J. P of wearing Hat in time of Prayer, and himſelf, he hath not undeceived any, neither will he pleaſe any (that is ſincere and ſober) except it be the Ranters: and was there not a time that <hi>R. R.</hi> could not bow? and is there now a time that he can put off Hat to Men and Women, and bow, and ſcrape? hath <hi>R. R.</hi> in this followed the Light, that convinced the Saints and him (if ever he was) and now come to be ſeared as with an hot Iron? Let him ex<g ref="char:EOLhyphen"/>amine, whether that was the true Faith and Light the Apoſtles were in, that led him from ſuch things, which now he is gone into again? and if ſo, whether hath he not made himſelf a Tranſ<g ref="char:EOLhyphen"/>greſſor, according to the Apoſtles Doctrine?</p>
+            <p>And <hi>R. R.</hi> Queries, <hi>What is the Name</hi> Quaker, <hi>which thou giveſt to thy ſelf?</hi> &amp;c. <hi>was this done that it might be known who thou owneſts and who are thy men of War, to fight under the Num<g ref="char:EOLhyphen"/>ber of thy Name?</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Let all People ſee, if <hi>R. R.</hi> and the Printer of this Book be not in the ſame Nature, as the perſecuting <hi>Independant</hi> Juſtices, who Scoffingly called us
+<hi>Quakers,</hi> in the Year, 1650. becauſe we did Tremble at the Word of God. And as for Men of War and Fighters, <hi>R. R.</hi> and <hi>J. P.</hi> might have applyed that at home, with their Guns and Carnal Swords; for we are men of Peace, and the believing in the Light of Chriſt Jeſus doth diſtin<g ref="char:EOLhyphen"/>guiſh us from the Haters of the Light: So its Malice in thee to ſay, that either G. F. or we gave the Name <hi>Quaker</hi> to himſelf.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>What is thy form of Words, in</hi> Thee <hi>and</hi> Thou,
+<hi>but a cuſtomary Singular Speech, another Node of ſpeak<g ref="char:EOLhyphen"/>ing then is commonly uſed, which no way reſpects the Truth of what is ſpoken,</hi> &amp;c?</p>
+            <p>
+               <hi>Anſw.</hi> Was it not the Language of God, and the Language of <hi>Moſes</hi> and the Prophets, and the Language of Chriſt and the Apoſtles in the Declarations of Truth
+<hi>Plural</hi> and <hi>Singular?</hi> And was not that the true form of words that they declared the Truth in, and ſo acceptable? and is it not Confuſion to ſpeak
+<pb n="27" facs="tcp:108841:14"/>
+               <hi>Plural</hi> when they ſhould ſpeak <hi>Singular;</hi> contrary to the Bible and all teaching Books? and didſt not thou once ſpeak it thy ſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and what art thou now ſo far degenerated from it, that thou fight ſt againſt us, in and like the Spirit of the World? and though the Diſciples declared the Truth to every man in their own Language, did they not declare it <hi>Singular</hi> and
+<hi>Plural?</hi> Read the <hi>Acts.</hi>
+            </p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>What is the refuſing to Swear after the manner as the Magiſtrates command, while in the m an time you will call God to witneſs to what you affirm for Truth? Is this any more then to oppoſe the Magiſtrates Form by your own, &amp;c?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Nay R. R. this ſhews the N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mneſs of thy Spirit, and thy Error from the command of Chriſt and the Apoſtle, who forbid Swearing: So it is not a Fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m of our making, but its a Form or Command of Chriſt Jeſus; and calling God to witneſs in ſpeaking the Truth, is not Swearing by Jeſus Chriſt, the Truth and the Oath of God. And as for kiſſing the Book, there is no Example for that, not in the Old Teſtament, when there was Swearing. And its falſe to ſay that <hi>G. P.</hi> or we, when we call God to Record for the Truth which we de<g ref="char:EOLhyphen"/>clare, own that to be Swearing: and this is not ſtraining a Gnat, and ſwallowing a Cammel, as thou ſcoffingly ſayſt. And hadſt thou diſtinguiſhed between <hi>Ceremony</hi> and <hi>Subſtance,</hi> thou wouldſt not have called it our Form not to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wear: and where doſt thou prove <hi>Verity, Verily,</hi> a kind of an Oath? And how doſt thou prove, by <hi>Paul</hi> calling God to Record upon his Soul to be Swearing? and the Son comes to fulfill the Oaths that were in the Old time: and
+<hi>Geneſis, Exodos, Pſalms, Acts</hi> 2. and <hi>Heb.</hi> 3. do not prove ſwearing in the New Covenant, no more than outward Offerings of Beaſts, and Circumciſion, <hi>&amp;c.</hi> And we have the Son, which is more then the Letter, that doth fulfil Swearing in the Old time; and we are come to Chriſt who gives us Life, and he is come who hath given us an underſtand<g ref="char:EOLhyphen"/>ing, and we are in him that is true. So all Swearing hath been ſince Man ſell from Gods Image; but Chriſt is come, who re<g ref="char:EOLhyphen"/>news us up into the Image of God, who ends Swearing, and ſets up
+<hi>Yea</hi> and <hi>Nay</hi> in the lieu of it.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>We have our appointed dayes, and ſet-times
+<pb n="28" facs="tcp:108841:15"/>for our Meetings to worſhip God;</hi> and this thou ſcoffingly calls
+<hi>New-Moons,</hi> and ſaith, <hi>Are not theſe Formal and Cuſtomary? and rather more to ſet up ſome diſtinction from other Sects, then from any clear Teſtimony the Lord at all times loads them into: Theſe Obſervations, and theſe Traditions are become Idols,</hi> thou ſayeſt, <hi>as Papiſts,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> And why is <hi>R. R.</hi> angry at our Set Dayes, and mali<g ref="char:EOLhyphen"/>ciouſly calls them
+<hi>Traditions</hi> and <hi>Idols,</hi> as the <hi>Papiſts?</hi> R. R. would become Judge of all but himſelf, but he had better have judged himſelf, and ſeen himſelf, whether he had not been without all Form, confuſed and empty. And did not the Apo<g ref="char:EOLhyphen"/>ſtles and the Church meet together the Firſt day of the Week, and commanded them not to forſake the Aſſembling of them<g ref="char:EOLhyphen"/>ſelves together, as the manner of ſome did? But it is like thy Evil Spirit hath no Peace in ſuch Meetings: and as for <hi>grievouſly Perſecuting,</hi> theſe are Slandrous words, in applying them to us, thou who art in <hi>Cains</hi> fear. And the true Light and Life of Chriſt Jeſus and his Spirit hath led us to meet together, and to praiſe the Lord and worſhip him; and in which Light we do hold Chriſt the Head, who bruiſeth the Serpents Head; though thou one of <hi>Hagars</hi> Children doſt Scoff at us; and the true Light, which is the Life in the Word, by which all things were made, makes us greatly to differ both from the <hi>Papiſts</hi> and thee.</p>
+            <p>And whereas <hi>R. R.</hi> ſaith, <hi>We often ſcourge J. N. by caſting him out of our Synagogues, and by falſe Reports, and ſold him in<g ref="char:EOLhyphen"/>to</hi> Egypt; and that <hi>our Strife and Contention is about Ceremonies,</hi> and that <hi>our Holineſs and Righteouſneſs is of the outſide of the Cup and Platter, and not in the inward Circumciſion of the Heart,</hi> &amp;c. And then <hi>R. R.</hi> when he hath forged all theſe Lyes, cries, <hi>Halle<g ref="char:EOLhyphen"/>lujah.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Lord knows that all this is Envy, that comes from R. R's malicious Heart, and his own evil Surmiſings, and from an uncircumciſed Heart; and our Holineſs and Righteouſneſs comes from Chriſt Jeſus, and J. N. in the worſt of his time would not ſo Revile us, as R. R. doth: and as for falſe Reports, evil Sur<g ref="char:EOLhyphen"/>miſings and outſide Cup and Platter, this R. R. might have kept at home, with his Strife and Contention: and doth R.R.
+<pb n="29" facs="tcp:108841:15"/>think to ſell us to his Brethren <hi>AEgyptians,</hi> with his falſe Reports and evil Surmiſings that he hath Printed againſt us. The Son of God had a place in
+<hi>AEgypt,</hi> when <hi>Herod</hi> did ſeek to kill him. And what is this, but Envy againſt our Form, which was the Form of the Apoſtles, and them that walk in the fear of God? and what we claim to our ſelves in the Light of Chriſt, we would have all to walk in, who are taught of God, though we Exhort one another, and Edifie one another, and Build up one another in our moſt Holy Faith: and we caſt out none; but if they go from the Light and Spirit of Chriſt, they caſt themſelves out of the fellowſhip in it. And as for <hi>the Spirit of <g ref="char:V">Ʋ</g>ſurpation, and cauſes the Creation to groan, and breeds the Famine, &amp;c.</hi> Let R. R look to that; and we know that the Stone which the Buil<g ref="char:EOLhyphen"/>ders rejected, is become the Head of the Corner, and is mar<g ref="char:EOLhyphen"/>velous in our Eyes, who gives us plenty of Bread, and Milk, and Wine without Money. And if
+<hi>R. R.</hi> and they that printed this Book, had known this, we ſhould not have had ſo many foul Ex<g ref="char:EOLhyphen"/>preſſions from his Mouth, and Uncircumciſed Lips, as here may be ſeen in pag. 35. And G. F. and we know that Chriſt light<g ref="char:EOLhyphen"/>eth every man that cometh into the World, and they that hate it, have not the ſame meaſure; and God doth ſend his La<g ref="char:EOLhyphen"/>bourers into his Vineyard, ſome at one Hour, and ſome at ano<g ref="char:EOLhyphen"/>ther; and art not thou Perſecuting, Scoffing and Reproaching of them? let thy Book ſpeak thy Spirit; and whether thou art ſubject to that Light or Spirit which God hath diſtributed to thy Mortification and Reformation, or Condemnation? Let the Book ſpeak, whether thy Language does not betray thee to be the Tongue of the
+<hi>AEgyptian</hi> Sea.</p>
+            <p>And thou ſayſt, <hi>Why may not God enjoyn that as an Ordinance to day, and give hit Power to it, which alſo to morrow he may lay aſide as uſeleſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Prove that in the New Covenant, where God and Chriſt did ſo, in that which is Subſtantial, that God with-drew his Power from any ſuch thing, and left it no better then a dead Idol. And was the Bazen Serpent, Temple, Tabernacle, Of<g ref="char:EOLhyphen"/>ferings, <hi>Jews</hi> Ceremonies enjoyned by the Lord as an Ordinance one day, and another as uſeleſs, and a dead Idol? or were they
+<pb n="30" facs="tcp:108841:16"/>not to continue, except the Braz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Serpent, till the Seed came, the time of Reformation?</p>
+            <p>And R R. doſt not thou ſay, When thou haſt been ſpeaking of <hi>Jewiſh Ceremonies and Sacrifices, ſuch alſo a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e many things at this day, both among the</hi> Quaker <hi>and other Sects, which have been Shadows and Figures of good things to come, which are beau<g ref="char:EOLhyphen"/>tified in their Seaſon, whilſt the preſence of God was in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m; but that being with-drawn, they became as dead Idols,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> But what are theſe forms of good things to come, a<g ref="char:EOLhyphen"/>mong the People of God in the New Covenant called <hi>Quakers?</hi> doth not R. R. Dote, and not know what
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaith? For in the New Covenant Chriſt is come to fulfi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l thoſe Forms and Figures that were in the Old; and a for other Sects, let them anſwer for themſelves. And where did ever the Apoſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at preached the New Covenant, tell them that God wou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d beautifie ſome Forms, with his preſence to day, and then he would with-draw himſelf out of them to morrow, and leave them as Idols?</p>
+            <p>And R. R. doth adviſe, That <hi>all Men walk as they ſee, and have received from the Lord, and none to look out at others.</hi>
+            </p>
+            <p>Then we muſt not look at R. R. nor his Book, nor his Teach<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Again, R. R. ſaith, <hi>Not call any Man Father or Maſter of their Spirits, but God only.</hi>
+            </p>
+            <p>See that R. R practiſe what he ſaith. And hath not R. R. Traditions and Forms of his own, who cries ſo much againſt Forms? ſee his preſcriptions, and advice in his Book. And we have forſaken our Fathers and Mothers Traditions, which we were brought up in, and do obey God rather then Man. And thou that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akeſt ſuch work about <hi>Si<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gular</hi> and <hi>Plural,</hi> and Hat, and Swearing to Magiſtrates: Is not this thy Fathers Traditions and old Cuſtoms?</p>
+            <p>And G F and we it was alwayes our Principle, that all ſhould follow the Light of Chriſt, to be their Guide to Chriſt, from whence it comes; and this not as thou ſcoffingly ſayſt
+<hi>to leave the Guide and follow thee:</hi> and this Light leads out of the <hi>Apoſtacy,</hi> and doth not lead into <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation,</hi> as thou ſcoffingly ſavſt (it led firſt out the Church of <hi>Rome</hi>) but it leads into Humility.
+<pb n="31" facs="tcp:108841:16"/>And G. F. is not offended (as thou ſcoffingly ſayeſt) at him that makes Conſcience, or no Conſcience of an Idol: But G.F. cannot encourage any <hi>Conſciences</hi> to an Idol, but to the Light of <hi>Chriſt,</hi> that turns from Idols to him, in which the true Love, Liberty and Unity is in the Light of <hi>Chriſt,</hi> who reconciles to God, and all things in Heaven and in Earth.</p>
+            <p>And R. R. ſpeaks of <hi>Leaving each other to the guiding of the holy Spirit of God, in that Form that they are brought up in.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Then why doth R. R. cry out ſo much againſt Forms in the <hi>Quakers?</hi> doth he not here condemn himſelf, and Gods Spirit, and Grace, and Truth the Apoſtles preached, and brought both <hi>Jews</hi> and <hi>Gentiles</hi> out of the old Forms they were in, into the New Covenant, where they were all taught of God? And if R. R. had minded Love, Mercy and Truth, and brought forth Fruits of true <hi>Chriſtianity,</hi> in Humility, Harmleſneſs and Meekneſs, and the Spirit of Chriſt, he would not have made ſo much ſtrife about outward Traditions, and there would not have been ſuch a Noiſe, as he hath made in his Book about his Braſs and Tinklin<g ref="char:punc">▪</g> Simballs; and if thou wouldſt ceaſe thy Envy and Diſputing, Back-biting and Surmiſing. and Slandring with thy Tongue, if thou and others would learn thi. Leſſon at home, it would do well.</p>
+            <p>And R. R. thou ſayſt, <hi>With Innocent, Harmleſs, Tender, Lo<g ref="char:EOLhyphen"/>ving Spirit of Crace I commend thee and all men,</hi> &amp;c.</p>
+            <p>And yet didſt not thou ſay before in pag. 33. That G. F. <hi>was turned to the Witch of his Mand?</hi> and in pag. 37. ſaith, that <hi>He hath exerciſed Cruelty againſt</hi> J P.
+<hi>and hunted him as</hi> Saul <hi>did</hi> David, <hi>by Papers of an Evil Spirit which thou haſt begotten, and raiſed in others againſt him,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> R R. this Langua<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e comes not from a Loving, So<g ref="char:EOLhyphen"/>ber, Tender Spirit, a the R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ader may ſee, which thou often goeſt over to ſwell up thy book with thy bitter Railing Lan<g ref="char:EOLhyphen"/>guage, which is the old Liquor that comes out of the old Bottle, and not from the new. And as for Exerciſing Cruelty, E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mi<g ref="char:EOLhyphen"/>ty and Hunting, as <hi>Saul</hi> did <hi>David,</hi> by Papers and an Evil ſpirit all this R. R. might have applyed to his own Spirit, which he thinks to beget in others againſt the Innocent; but one day the
+<pb n="32" facs="tcp:108841:17"/>Lord will Reward him and them that promote his Work, according to their Deeds: For the Lord knoweth our tender Care and Love was for the preſerving of J. P. though all was ſlighted.</p>
+            <p>And thou ſayeſt, That G. F. <hi>Accuſed, Threatned and Con<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mned</hi> J. N. <hi>as one departed from Truth,</hi> &amp;c. <hi>and that he had loſt his Authority.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> J N. did confeſs it, when that he came to ſee himſelf, and Repented: But
+<hi>Threatned</hi> and <hi>Condemning,</hi> theſe are thy own aggravating Words: For J N di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs G. F's and others Tenderneſs to him, when he ſaw himſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Repented.</p>
+            <p>And R. R. ſaith, That G. F <hi>tempted J N. with fair Speeches and Premiſes, if he would bow down and be obedient to him, to which Threats and Promiſes J. N. he<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt. &amp;c. G. F. thereby thinking he was caſt under Subjection, and head forth his Hand to J. N. to Kiſs, as a Teſtimony of his Favo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o him, and his Obe<g ref="char:EOLhyphen"/>dience to thee; and J. N. refuſing, then</hi> G F <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffered him his Foot, and ſaid, He was miſtaken.</hi> And R.R. appeals to G. F's own Conſcience for the Truth of this, who ſaith, <hi>He received it from J. N's own Mouth, when he went to</hi> Briſtol,
+<hi>to receive his Cruci<g ref="char:EOLhyphen"/>fixion:</hi> Therefore R R. concludes, That <hi>G. F. hath loſt his Guide, and is led by the Spirit of</hi> Diotrephos.</p>
+            <p>
+               <hi>Anſw.</hi> In all this R. R. hath manifeſted himſelf to be of a malicious Spirit, and a Forger of moſt of theſe Words: For theſe are Lyes to ſay, that G. F. did tempt with Promiſes or Threats, or he thinking to have brought him under Subjection by it; theſe Words are from R. R's Imaginary Spirit, and not from Love. And after J. N. had given <hi>G. F.</hi> many hard words, w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en the poor ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was out and dark, <hi>G. F.</hi> would have taken him by the Hand, and J. N. would not: and <hi>G. F.</hi> was many time moved to pray for him, and oner on his Knees: and J.N's Spirit was ſo ſtupified with Darkneſs, that he ſlighted it, as them that were with G.F. then can teſt fie; and alter he had gi<g ref="char:EOLhyphen"/>ven <hi>G. F.</hi> many hard words, J N. ſaid, <hi>He would Kiſs G. F.</hi> But what if G. F. ſaid, it was his F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as a Teſtimony againſt that lofty Spirit, which
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor man after he condemned. And as for the Spirit of <hi>Diotrephos,</hi> R. R, might have kept at home;
+<pb n="33" facs="tcp:108841:17"/>And G. F. did not fall from his Guide, becauſe he did not follow J. N. nor J. P. nor R. R. as R. R. would have it be. And why could not J. N. &amp; R. R. have told G. F. of theſe things, while J. N. was living? but R. R. tells it to the World ſo many Years after J.N. was dead, and after J.N. had given forth a Paper of Condem<g ref="char:EOLhyphen"/>nation of that Spirit that led him &amp; others forth: but its like ſuch condemned ſtuſſ is Food for R. R. to rake up and to feed on, and alſo to feed the Prejudiced People, and the World withal; but this is not the Spirit of Chriſt Jeſus, nor Love, that R. R. talks ſo much of in Words: and we could have wiſhed that R. R. had condemned himſelf and his Work, as J. N. did, and then he would not have brought forth ſuch forged Lyes as theſe: So thou art raiſing the Dead, that is condemned, and not the Li<g ref="char:EOLhyphen"/>ving.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>Did not</hi> G. F. <hi>and his Friends continue Enemies to</hi> J. N. <hi>till for Love and Peace-ſake he bowed down to thee, yea, and made himſelf of no Reputation; yea, Sin, that knew none, rather then you to continue in Enmity againſt him ſhould deſtroy your Souls.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is falſe, the Lord knoweth it; thou callſt our Love to him Enmity; and that is falſe to ſay he bowed to G. F. and if he had not known that he had gone into Sin, he would not have condemned it; and this was for ſaving his own Soul, and not ours; that we ſhould continue in Enmity againſt him, to the deſtroying our own Souls, this alſo is falſe, and J. N. never ſaid ſo, who continued long with us after his Repentance: and thy quoting
+<hi>Philippians, Corinthians</hi> and <hi>Romans</hi> is nothing to the purpoſe; but it ſeems thou haſt not followed J. N's ſteps to make thy ſelf of no Reputation, and the Paper G. F. gave forth at J. N's Tryal at <hi>Weſtminſter,</hi> why didſt thou not Print it? and Friends were not judged for judging that in him, which he judg<g ref="char:EOLhyphen"/>ed himſelf, and ſo its manifeſt that was not the Spirit of <hi>Corah</hi> and <hi>Abiram</hi> that gave forth that Paper, but that which oppoſed it: And if <hi>Judas's</hi> Spirit, according to <hi>R. R's</hi> ſaying, be the ground of ſeparation, then let <hi>R. R.</hi> ſee if he be not betraying the innocent Brethren. And
+<hi>R. R.</hi> goes over again in p. 38. with the ſame matter that he did in pag. 33. to fill up his Book, which
+<pb n="34" facs="tcp:108841:18"/>is anſwered before. And G. F. doth not ſay all will Snarl like Dogs and bite, that he is not Maſter of their Faith and Spirit; this is falſe and malicious, for Chriſt is the Author of Faith, and ſo the Maſter of it: But doſt not thou (as J. P. then) bite? elſe why art thou not quiet? Doſt not thou
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o about to ſet others to Bite, in printing thy Lyes to the World, which is not Love, but Enmity? Nay, we and G F. have out-lived the Enmity, and are in the Heavenly Seed, which will out laſt all, and bruiſes the Head of Enmity. And as for
+<hi>Perſecution, Pride, Hypocriſie</hi> and <hi>Excrements,</hi> and <hi>ſubtile Endeavours,</hi> and <hi>Snares of Craft</hi> and <hi>Cruelty, under whoſe Skirts the Blood of the Innocent is ſeen,</hi> &amp;c. Theſe things thou mightſt have applyed at home to thy own Spirit: and G. F. is not Guilty of thoſe things wherein he hath condemned J. N. and J. P. becauſe thou ſayeſt ſo.</p>
+            <p>And as for R. R's ſaying, <hi>Into which Snare thou art fallen, as a wild Bull, into thy own Net, laid for others, where all thy ſtri<g ref="char:EOLhyphen"/>ving and ſtrugling to evade Truth, ſhall the more intangle thee.</hi>
+            </p>
+            <p>R. R. had better applyed all this at home to his ſtriving and ſtrugling Spirit: and G. F. and we are out of that Spirit, that rends and tears one another; but thou art in that Spirit thou ſpeakſt of: and the <hi>Quakers</hi> are ceaſed from men, and ſtand fixed upon the Rock and Foundation of the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles; and thy ſcoffing at G. F. will not bring them off.</p>
+            <p>And R. R. ſaith, <hi>Wherein that which hath a long time been hid<g ref="char:EOLhyphen"/>den in ſecret, muſt now by the witneſs of Truth be declared upon the Houſe top of thy Tabernacle, and ſome there prepared for ſuch an Hour, a Day, a Moneth, and a Year.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> So here R. R. is appointing Times and Dayes. Mo<g ref="char:EOLhyphen"/>neths and Years, and yet was finding fault in p. 35. for our Times, Dayes and Moneths for Worſhipping of God; but may be he will ſay, this is not for Worſhipping of God. And we do not fear what R. R. and his <hi>ſome prepared</hi> can bring forth againſt Chriſt Jeſus the Lamb and his Followers. And G F. did not plead J.N's cauſe in thoſe things he condemned, by thoſe Papers he gave to the Parliament, but it was on behalf of the Seed of God in him, and not approving thoſe things to be lawful and good, which he condemned, though they had been done in a publick or pri<g ref="char:EOLhyphen"/>vate
+<pb n="35" facs="tcp:108841:18"/>Chamber: and if J. N. had acted in the Seed, he would ne<g ref="char:EOLhyphen"/>ver have been againſt the Seed in others, nor have been led a<g ref="char:EOLhyphen"/>way by that Spirit that led him then.</p>
+            <p>And R. R. ſaith, <hi>If thoſe very things had been openly acted to the Seed of Exaltation, Pride and Self-love in</hi> G. F <hi>as they were to</hi> J. N. <hi>all had been well approved, both by</hi> G. F. <hi>and all that own<g ref="char:EOLhyphen"/>ed him; though he judged</hi> J. N <hi>to be fallen, and loſt his Authority, &amp;c. with whom they had no <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe be R. R's Forgeries the Lord knoweth, and we can leave him to him to judge of his Words and Spirit: and as for Exaltation, Pride and S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf-love, he had better have kept at home: For that which G. F. did write to the Parliament was for the <hi>Seed of God in J. N.</hi> and in all, as the Papers themſelves declare. And we had no Unity with that Spirit, which led J. N. from the Seed, nor he, when he condemned it, though thou ſeemſt to juſtifie his condemned ſtuff: Neither is G.F. <hi>an op<g ref="char:EOLhyphen"/>poſer of Truth, an exalted</hi> Capernaum, <hi>or as one of the Genera<g ref="char:EOLhyphen"/>tion Guilty of the Innocent Blood, ſhed from</hi> Abel. This R. R. might have applyed to himſelf; neither is he fallen, nor Head and Member of a falſe Church. Can a Member be Head and Member too, R R. as thou ſayſt? art thou taken in thy own <hi>Craft</hi> and <hi>Subtilty,</hi> as thou callſt it? But G. F. and we are Members of the true Church, of which Chriſt is Head; God hath given his Spirit to his People to diſtinguiſh between Cattel and Cattel, and the poor in Spirit that thirſt after his Springs of Life; and Chriſt is the Shepherd, and thouſands are come into his Paſtures of Life, and the Fat, and the Full, and the Airy Raging Waves of the Sea God will feed with Judgment. And that wherein G. F. did judge J. N. he is not judged; for J. N. hath condemn<g ref="char:EOLhyphen"/>ed the ſame, and owned G. F's Judgment: and G F. hath re<g ref="char:EOLhyphen"/>membred the Affliction of
+<hi>Joſeph,</hi> and doth not Lord himſelf over the Light of God in others; this is falſe, and <hi>R. R.</hi> might have applyed it at home; for Chriſt is Lord of his Light, and true Guide of his People. And as for carrying any out of the ſure way, into the Wilderneſs of Strife and Contention, and loſe the true Guide of Reſt and Safety; this R. R. might apply
+<pb n="36" facs="tcp:108841:19"/>at home, as the Spirit of Strife, and not Love, as thou manifeſts in thy Book.</p>
+            <p>And R. R. ſaith, <hi>Therefore ſhalt thou fall unlamented, and poor Worms that have enthroned thee as Lord and King over their Conſciences, and have been eſtranged from their true Guide, ſhall in Gods due time ceaſe from Man, and aſcribe unto God only as the Light and Life of their Souls, yea, Curſe their God and King.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All theſe Railing words, like raging Waves of the Sea, will turn back upon thy ſelf. And as for G. F's <hi>fall unla<g ref="char:EOLhyphen"/>mented,</hi> (yet R. R. commends him to the Spirit of Graces) but R. R. might have applyed it to himſelf, and not to him who is in the Election and Seed of Life, that will never change nor fall, For who ſhall lay any thing to the charge of Gods Elect, for it is he that juſtifies, who art thou that condemns? and, as for poor Worms, enthroning as Lord and King, that is falſe, and is <hi>R.R's</hi> Forgeries altogether; ſo its he that may Curſe his God and King: and we do aſcribe unto God only, and to his Son, the Light and Life of our Souls, Glory to God forever.</p>
+            <p>And as for thy ſcoffing, and ſaying, <hi>Babylon is fallen among the</hi> Quakers <hi>like a Milſtone, never to riſe again.</hi>
+            </p>
+            <p>We would R. R. had ſeen himſelf with the Light of Chriſt, and judged himſelf in his Confuſion, and his <hi>Babylon</hi> fallen, then he would not have applyed it among the
+<hi>Quakers,</hi> but he might have ſeen the <hi>Quakers</hi> in the Light of Chriſt, the New and Li<g ref="char:EOLhyphen"/>ving way, who are the Living Stones, the Houſhold of Faith.</p>
+            <p>And R. R. ſaith, at the Command of the Lord for Love's ſake, &amp;c. <hi>He hath written and ſent theſe things, as return of thy own Money into thy Sack; that thou mayſt ſee from whence thou art fallen, and conſider whoſe Image and Superſcription thou beareſt, whether the Lamb or the Dragon; in which Spirit of the Lamb, I am a Lover of thee.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> So Mark, then G. F. muſt ſee by theſe things, that R. R. is returned: he muſt ſee how he is fallen, and whoſe I<g ref="char:EOLhyphen"/>mage he bears, whether it be the Lambs or the Dragons. But hath not <hi>R. R.</hi> forgotten himſelf, who ſaith, <hi>We muſt ceaſe from Man?</hi> And that <hi>the Light ought be the Guide or Rule to every one?</hi>
+               <pb n="37" facs="tcp:108841:19"/>ſee pag. 35. And we cannot believe that <hi>R. R.</hi> was command<g ref="char:EOLhyphen"/>ed of Gad to write theſe Lyes and forged Expreſſion, but from a Malicious Spirit, and not Love; which R. R. might have kept in his own Sack, which is his own Droſs, which is not the heavenly Coyn, but ſuits his own Image, and not the Image of God, which G. F. and his Friends are in, bleſſed be the Lord forever: And the Love of <hi>Cain</hi> may be ſeen in all thy Book, and not the Love of the Lamb.</p>
+            <p>Then R. R. boaſts himſelf, how <hi>he hath leapt over a Wall, a whited and a painted Sepulchre.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Poor Man! haſt thou not been whiting and painting thy Sepulchre, with thy airy Notions all along in thy Book (look within) who buries the juſt within thee, under the Cor<g ref="char:EOLhyphen"/>ruption and Rottenneſs, there.</p>
+            <p>And G. F. never deſired J. N. to fall down and Worſhip him, nor give that Honour to man that belongs to God: theſe are <hi>R. R</hi>'s Lyes.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>That J. N. and ſeveral others, went down upon their Knees before G. F. to confeſs, as divers have Reported that were Eye-witneſſes.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe are more Horrid Lyes of <hi>R. R</hi>'s, and his Re<g ref="char:EOLhyphen"/>porters and Eye-witneſſes are Falſe. For J N. in the <hi>Buil and-Mouth,</hi> before ſeveral Hundreds of People, kneelled down there, and judged and condemned his Out-goings and Runnings out from the Truth upon his Knees, on the far ſide of the Room from G.F. So that G. F. ſaw not when he kneeled down, but he did it voluntarily of himſelf; and there was no others that kneeled down at that time, except Friends did when they went to Prayer. And now let all the ſober judge, whether this be not a Malicious Envious Spirit in <hi>R. R.</hi> to Forge and In<g ref="char:EOLhyphen"/>vent ſuch Lyes, and throw them upon G. F. near Twenty Years after, becauſe J. N. did condemn, with the Light of Chriſt, that Spirit that led him out to grieve God and his People in a pub<g ref="char:EOLhyphen"/>lick Aſſembly on his Knees: and it had been well if R.R. had done the ſame as J. N. did, then that might have ſtopt thy angry raging Waves of this Sea, in which R. R. foams out his own ſhame.</p>
+            <p>
+               <pb n="38" facs="tcp:108841:20"/>And R. R. ſaith in pag. 40. <hi>That</hi> John Killam <hi>of</hi> Balby <hi>a Wo<g ref="char:EOLhyphen"/>man, fell down before</hi> G. F. <hi>on her Knees, near half an Hour, and he never Reproved her.</hi> And then R. R. ſaith, <hi>Is not this to Wor<g ref="char:EOLhyphen"/>ſhip Man, which is Idolatry?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here is more Envy and Wickedneſs: What ſhould G F. reprove her, <hi>Joan Killam;</hi> for it was a Woman as thou fayeſt, though thou haſt ſet it <hi>John:</hi> and what if ſhe had fallen down, or kneeled down two or three Hours? what is that to the purpoſe? this is not falling down and Worſhipping Man, which is Idolatry: But in this thou haſt reproved G. F. and why did not R. R and J. K. tell G. F. of this above Twenty Years ago, when he was at
+<hi>Balby,</hi> and ſhewed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike then of her falling down, if it was ſo? but R R to bear this in his mind above twenty Years, doth not this manifeſt that he has an evil Heart, and hath watched for Evil; and now above twenty Years after to publiſh it to the World? Let the ſober judge, whe<g ref="char:EOLhyphen"/>ther this be from the Spirit of the Lamb he ſpeaks of, or Envy.</p>
+            <p>And R. R. ſaith, <hi>Salomon Eccles cryed up G. F. to be a God, and not a Man.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe are horrid Lyes of R R. For S. E. never ſaid ſuch words as theſe are.</p>
+            <p>And then R. R. ſaith, <hi>Whether this is not Blaſphemy againſt God, and to Worſhip the Creature more then the Creator.</hi>
+            </p>
+            <p>Now here all the Sober may ſee, after R. R. hath forged Lyes, and fathered them of G. F. and publiſhed them to the World, and then Queries, <hi>Whether it be not Blaſphemy?</hi> and then when he hath done with his Lyes, cries, <hi>Hallelujah:</hi> And whether this be not the Spirit of the bloody Whore and Dra<g ref="char:EOLhyphen"/>gon, that drank the Blood of the Saints, and of the <hi>Jews</hi> that Perſecuted Chriſt and the Apoſtles as Blaſphemers, when indeed they were not? Oh! that R. R. might come to Humility, and condemn this Lying, Erring Spirit in himſelf, and come to Re<g ref="char:EOLhyphen"/>pentance for his Evil Work, as J. N. did, that is all the hurt we wiſh him.</p>
+            <p>And its like that many in the Country could not receive R. R. as at <hi>Jo. Crocks</hi> and
+<hi>Banberry</hi> in his Airy Notions, and the Whore had not bewitched them, neither did they ſet up man in<g ref="char:EOLhyphen"/>ſtead
+<pb n="39" facs="tcp:108841:20"/>of the Anointing; theſe foul Expreſſions from <hi>R.R's</hi> Unſanctified Spirit, he might have kept at home.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>He met with G. F. and he ſpoke to him of many things, and he found him as wiſe an Angel of Light, and as one as had all Knowledge,</hi> &amp;c. <hi>and underſtood all Myſteries.</hi> And then thou ſayeſt, <hi>He was a Star fallen from Heaven;</hi> and then fallſt a Railing with thy bottomleſs Pit, Locuſts and Smoke, with that Name thou ſpeakeſt of, whoſe Nature is to deſtroy. And it had been well if thou hadſt taken G. F's Counſel, who keeps his Habitation, and hath kept it ſince the beginning, and with the Light of Chriſt thou mightſt have ſeen him ſo; and not a Star fallen, but thy ſelf fallen, and have ſeen the Locuſts and Smoke at home in thy own Pit, which now is come out. And then thou tellſt of thy <hi>Dream, and hunting the Fox with Hounds,</hi> which thou didſt much affect; and art thou turned into this ſame looſe Na<g ref="char:EOLhyphen"/>ture again? and thou applies thy filthy Dream to G. F. one of the Lambs of Chriſt; thou waſt hunting him in <hi>Eſau</hi> and
+<hi>Nim<g ref="char:EOLhyphen"/>rod's</hi> Nature: But when thou art Confounded, and thy Mount on Fire, then remember the Journal of thy Life.</p>
+            <p>And G. F. hath not been hid, the Priſons and Goals manifeſt<g ref="char:EOLhyphen"/>ed that; neither hath he hid himſelf under ſmooth Words: For haſt not thou been finding fault with his Words, calling them
+<hi>Rabſhekas</hi> and <hi>Reproaches</hi> all along thy Book? ſee in pag. 32. Now to ſay they are ſmooth, what Contradictions are theſe, and ſaid, <hi>He Reproached</hi> J. P. <hi>in ſpeaking plainly to him.</hi> And thou ſayeſt, That G. F. <hi>loves none but who calls him Maſter, or to receive his Mark, or Number of his Name.</hi> This is falſe in R. R. who is given up to forge Lyes; and three times thou goeſt over to fill up thy
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook withal in the Enmity, that G. F. gave <hi>J. N.</hi> his Hand to Kiſs, which is falſe: For <hi>G. F.</hi> would have taken him by the Hand, and he re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſed it; and then thou fallſt a Rail<g ref="char:EOLhyphen"/>ing at <hi>G. F.</hi> and one day thou wilt know that it was not the Spi<g ref="char:EOLhyphen"/>rit of the Dragon, nor Words without Life that G. F. ſpake to thee; neither doth he bear any Enmity to the Innocent, but is out of the Enmity, the Lord knoweth it; and if thou wert in the Love thou wouldſt ſee it.</p>
+            <p>And then thou manifeſts thy Envy againſt E. B. and ſaith, that
+<pb n="40" facs="tcp:108841:21"/>
+               <hi>He ſpoke great things, and ſpoke many Myſteries:</hi> and then ſcof<g ref="char:EOLhyphen"/>fingly ſayſt, <hi>So did</hi> Balaam <hi>that erred from the Spirit</hi> Doth not R. R. here manifeſt his Spirit like <hi>Iſhmael,</hi> his Hand againſt eve<g ref="char:EOLhyphen"/>ry man, who thus compares E. B. that Innocent Servant of the Lord with <hi>Balaam:</hi> and if thou hadſt laid down thy Crown, and denyed thy ſelf, as did others, thou wouldſt not have brought forth ſuch as is in thy Book.</p>
+            <p>And thou tellſt <hi>Of the Beaſt that hath yet a Golden Head, ſtanding, and the Dragon tearing and rendring.</hi> But if thou hadſt ſeen this tearing Spirit in thy ſelf, thou wouldſt have ſtopt thy Mouth.</p>
+            <p>And R. R. ſaith, He <hi>ſees the People are weary of the</hi> Manna <hi>that comes down from Heaven, Gods Spirit and Life in them.</hi> This is thy own condition, with other of thy railing Expreſſions in this page, and theſe Words thou haſt not ſpoken by the moving of the Spirit of Grace; for thou art not ſeaſoned with it, as may be ſeen in pag. 41. and 42. And as for the <hi>Fleſh-Pots of Aegypt</hi> thou ſpeakſt of, ſee if thou be not ſeeding in them.</p>
+            <p>And R. R. ſaith, He <hi>had rather ſpeak five Words from the Spi<g ref="char:EOLhyphen"/>rit of Grace moving, then ten Thouſand Words from hit <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding, though never ſo true,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw. R. R.</hi> need not Praiſe himſelf in this, whoſe Words proceeds neither from the Spirit of Grace, nor from a good Un<g ref="char:EOLhyphen"/>derſtanding, as ſober People that read his Book may ſee and judge: and thou that condemneſt the Innocent, and juſtifieſt the Wicked, mayſt read thy Portion.</p>
+            <p>And R. R. ſaith, <hi>O</hi> Jeruſalem! <hi>how oft have I ſought to find Love in thee towards thy Brethren!</hi> &amp;c. <hi>how oft have I purſued after it, bearing all Sins and Evils on my Body, that he might gain the Love of his Brethren!</hi>
+            </p>
+            <p>
+               <hi>Anſw. R. R.</hi> theſe are but boaſting Words without Life, as thy Fruits declare it in thy Book; and the Fruits of thy Spirit doth not manifeſt Love.</p>
+            <p>And R.R. ſaith, <hi>He believes he might have been received into Fellow ſhip amongſt us.</hi> But then he ſaith, <hi>he muſt firſt have turn<g ref="char:EOLhyphen"/>ed the Truth of God unto a Lye, and ſpeak Evil of things that he knew to be good, and denyed his Teſtimony, and betrayed Jeſus.</hi>
+            </p>
+            <p>
+               <pb n="41" facs="tcp:108841:21"/>
+               <hi>Anſw.</hi> Nay, ſuch a Spirit as this we could not have received into Unity; but let <hi>R. R.</hi> look at home and ſee if he hath not done this already: and if that be Good which J. N. hath con<g ref="char:EOLhyphen"/>demned, and if that be R. R's Teſtimony, and a betraying of Jeſus that the Light of Chriſt condemns, <hi>R. R.</hi> may keep his Teſtimony to himſelf. And we cannot believe that R. R. did bear all Sin and Evil on his own Body, as he ſaith in pag. 44.</p>
+            <p>Then R. R. tells us, <hi>Of he that loves his Enemies, ſpeaks E<g ref="char:EOLhyphen"/>vil of no man, rewards Evil with Good, and doth not ſalute his Brother only; this it he that is Heir of all things, and muſt Reign.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But where is the Life of this Love in <hi>R. R?</hi> Let the Reader ſee if he hath ſhewed forth the Fruits thereof in his Book, and if not, then he cannot Reign with Chriſt, according to his own Judgment: Doth he ſpeak Evil of no man? Doth he love Enemies? hath not he rewarded Evil for Good? And waſt not thou before in thy Book contending more for Tradition then the Command of Chriſt, who ſaith, <hi>Swear not at all?</hi> read pag. 35. and 44.</p>
+            <p>And thou ſpeakſt <hi>of the Son of the Bond Woman, called of Men, Maſter, &amp;c. which wilt not let his Brother go free,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Art not thou called of men Maſter, and callſt others Maſter? Read thy ſelf, and come down from thy Mount to the Witneſs of God in thee, and ſee if thou canſt put a difference be<g ref="char:EOLhyphen"/>tween the two Seeds in thy ſelf.</p>
+            <p>And thou ſayſt, thou <hi>haſt ſeen many mighty Men fall.</hi> But it were better that thou didſt ſee thy ſelf in the fall.</p>
+            <p>And thou ſayſt, <hi>Abide thou in that which thinks no ill, and thou wilt be ſafe.</hi>
+            </p>
+            <p>
+               <hi>Anſw. R. R.</hi> had better have taken this Counſel to himſelf.</p>
+            <p>And <hi>R. R.</hi> ſaith, <hi>When others Hearts ſhall fail them for fear, that have begotten Children in Adultry, that have imagined Miſ<g ref="char:EOLhyphen"/>chief in their Hearts againſt the Innocent, and have climbed up in<g ref="char:EOLhyphen"/>to their Fathers Bed.</hi>
+            </p>
+            <p>But <hi>R. R.</hi> might very well have applyed this at home, and kept it there, and not have let it gone out into the World. For we the Believers in the Light of Chriſt Jeſus, do own every
+<pb n="42" facs="tcp:108841:22"/>appearance of him, whether it be in Groaning or Sighing, Hymn or Song; and thoſe are manifeſt that do betray the ſimple Ones; whoſe Blood lies under Skirts: and
+<hi>R. R.</hi> might have kept theſe laſt ſayings at home.</p>
+            <p>And <hi>R. R.</hi> writes to his Dear Heart, and ſaith, <hi>Enter thou not into their Secrets, nor ſay a Confederacy with the Blood-thirſty man,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Is not this R. R's condition, who would make <hi>G. F.</hi> a Blaſphemer; and what muſt Blaſphemers be done withal? and whoſe Bloody Hands muſt firſt be upon his Head? Is not thy Nakedneſs here ſeen, that hath long lain hid in ſecret? and haſt thou not Preached it now atop of the Houſe of the Worlds Spirit?</p>
+            <p>And thou would ſee <hi>the dear Lamb once more under the Fig-tree not oppoſing Gods Spirits leading,</hi> &amp;c. <hi>nor lending an Ear to Reports.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But why hath not <hi>R. R.</hi> applyed this at home and practiſed it? then he would not have Printed ſo many falſe Re<g ref="char:EOLhyphen"/>ports and Lyes of twenty Years ſtanding, as have been be<g ref="char:EOLhyphen"/>fore inſtanced: and if he had not followed his own underſtand<g ref="char:EOLhyphen"/>ing, and his paſſionate angry Spirit, and fathered the Fruit<g ref="char:punc">▪</g> of it upon the motion of God, as in pag.
+40. it might have been better with him, and not to have plucked up the Wheat with the Tares.</p>
+            <p>And thou ſayſt, <hi>We ſhould be in one Love; and the Lord rebuke him that ſeeks occaſion,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Now let all tender, ſober <hi>Chriſtians</hi> judge, whether R. R. is not come under this Rebuke by his own Judgment? hath not he ſought occaſion, and made occaſion in matters of Strife, which has been twenty Years ſtanding, ſome more and ſome leſs, and which were dead and buried, and forgiven by us long ago? which dead thing thy Spirit hath raiſed up, which every Spirit raiſes its own; but thy Spirit hath manifeſted not to bear the Fruits of the true love of God in Chriſt Jeſus, but the Spirit of the World that luſts to Envy, Height, Pride and Arrogancy, and Turbulent and Revengeful, as you may ſee in pag. 40. and throughout his Book. Of what thou ſayſt thou haſt returned to <hi>G. F.</hi> in this thou haſt manifeſted thy ſelf to be
+<pb n="43" facs="tcp:108841:22"/>void of the Lamb-like Spirit of Jeſus, and the true Humility, Learning of him, nor one of his Diſciples thou doſt not bear that Badge or Mark, by which they are known, neither haſt thou ſhewed forth the Nature of Grace, which ſhould Salt and Sea<g ref="char:EOLhyphen"/>ſon thy Words; let the Reader ſee whether the words in thy Book are not Unſavoury.</p>
+            <p>And many more Scoffing things there are in thy Book, which indeed are not worth mentioning; but this which is written it is for the ſake of the Simple: For our Lives are out of Strife in Chriſt Jeſus our High-Prieſt, who is over his Houſhold of Faith, in whoſe Houſe there is Bread enough, Praiſed be the Lord. And they that be out of this Light, be out of his Houſe; then they may Mummur becauſe of the Famine.</p>
+            <p>
+               <hi>From them who love God and his Son, and all that he hath Created, who Worſhip God in the Spirit and Truth, which the Devil is out of, whoſe Fellowſhip ſtands in the Goſpel and Power of God, in which the Devil cannot come, who deſire</hi> R. R's <hi>Re<g ref="char:EOLhyphen"/>pentance, that he might become a new Man, and put off the old, if it be the Will of the Lord.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
